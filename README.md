@@ -2,4 +2,4 @@
 Test json gis storage
 
 Testiranje u tijeku
-https://github.com/ejovrh2/test-json/index.html
+https://ejovrh2.github.io/test-json/
