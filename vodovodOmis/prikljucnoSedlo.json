@@ -1,0 +1,77 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 578,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.860368,
+                43.40002
+              ]
+            },
+            "properties": {
+              "H_mnm": 29.8796,
+              "Ime": "PS1(j0)",
+              "Opis": "90/32",
+              "Lokacija": "Pisak(Put Porta)",
+              "MjernaZona": "Pisak",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "GodinaIzgradnje": 2019,
+              "OcjenaStanja": 9,
+              "Klasa": "PrikljucnoSedlo"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 579,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.831028,
+                43.403017
+              ]
+            },
+            "properties": {
+              "H_mnm": 100.4268,
+              "Ime": "PS1(ma)",
+              "Opis": "90/32",
+              "Lokacija": "Marušići(Put Dvora)",
+              "MjernaZona": "Marušići",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "GodinaIzgradnje": 2019,
+              "OcjenaStanja": 9,
+              "Klasa": "PrikljucnoSedlo"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 580,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.805196,
+                43.405433
+              ]
+            },
+            "properties": {
+              "H_mnm": 59.7172,
+              "Ime": "PS1(m0)",
+              "Opis": "90/32",
+              "Lokacija": "Mimice(Kralja Tomislava)",
+              "MjernaZona": "Medići - Mimice",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "GodinaIzgradnje": 2019,
+              "OcjenaStanja": 9,
+              "Klasa": "PrikljucnoSedlo"
+            }
+          }
+    ]
+}

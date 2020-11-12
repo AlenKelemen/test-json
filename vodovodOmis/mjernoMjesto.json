@@ -1,0 +1,3272 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 245,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.890919,
+                43.430338
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "H_mnm": 228.23,
+              "Ime": "NT Zadvarje",
+              "PodaciIme": "EDC",
+              "OptionalId": "NTzadvarje",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 246,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.908507,
+                43.425879
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 11",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 247,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.681091,
+                43.441062
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 81",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 248,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.67914,
+                43.443929
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 75b",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 249,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.6798,
+                43.443993
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 75a",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 250,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.68034,
+                43.443815
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 76",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 251,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.6833,
+                43.443205
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 77",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 252,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.683041,
+                43.442764
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 72",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 253,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.764334,
+                43.416627
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 68",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 254,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.765563,
+                43.416095
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 67",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 255,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.769005,
+                43.41539
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 64",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 256,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.768311,
+                43.41583
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 65",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 257,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.769741,
+                43.414451
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 63",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 258,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.709374,
+                43.437853
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 49",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 259,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.785655,
+                43.426883
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 29",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 260,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.78175,
+                43.430528
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 28",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 261,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.70491,
+                43.439863
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 47",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 262,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.706744,
+                43.439678
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 48",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 263,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.704722,
+                43.44003
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 46",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 264,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.699261,
+                43.438716
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 57",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 265,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.700704,
+                43.439344
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 55",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 266,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.93906,
+                43.433339
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 21a",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 267,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.891197,
+                43.42907
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 9a",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 268,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.67811,
+                43.444085
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 74",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 269,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.678514,
+                43.444498
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 73",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 270,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.803786,
+                43.427505
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 27a",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 271,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.627089,
+                43.451175
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 80",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 272,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.648172,
+                43.442902
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 79",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 273,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.648334,
+                43.443258
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 78",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 274,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.836557,
+                43.401758
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 71",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 275,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.812386,
+                43.405439
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 70",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 276,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.777275,
+                43.408957
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 69",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 277,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.766069,
+                43.412676
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 62",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 278,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.736525,
+                43.41756
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 61",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 279,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.736125,
+                43.417928
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 60",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 280,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.735041,
+                43.416008
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 59",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 281,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.725879,
+                43.417151
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 58",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 282,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.701082,
+                43.438802
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 54",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 283,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.710779,
+                43.436669
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 51",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 284,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.617053,
+                43.489685
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 45",
+              "Status": "Izvedno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 285,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.682953,
+                43.46316
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 43",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 286,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.734556,
+                43.461556
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 40",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 287,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.710116,
+                43.469412
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 39",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 288,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.705935,
+                43.46653
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 38",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 289,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.706932,
+                43.459917
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 37",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 290,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.706427,
+                43.459955
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 36",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 291,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.696287,
+                43.460323
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 32",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 292,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.69227,
+                43.460232
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 34",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 293,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.69459,
+                43.459255
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 33",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 294,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.695634,
+                43.45983
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 35a-b",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 295,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.702639,
+                43.46152
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 31",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 296,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.802493,
+                43.428393
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 26",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 297,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.802257,
+                43.428415
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 27",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 298,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.834053,
+                43.453749
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 25",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 299,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.833874,
+                43.452825
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 24",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 300,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.807319,
+                43.443879
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 23",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 301,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.809273,
+                43.444555
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 22",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 302,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.911189,
+                43.454052
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 21",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 303,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.962681,
+                43.431057
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 20",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 304,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.845646,
+                43.478986
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 19",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 305,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.836633,
+                43.468941
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 18",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 306,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.835856,
+                43.468711
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 17",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 307,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.906852,
+                43.443523
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 16",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 308,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.90516,
+                43.444457
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 15",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 309,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.903435,
+                43.444039
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 14",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 310,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.890072,
+                43.42872
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 13",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 311,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.89256,
+                43.419477
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 12",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 312,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.892198,
+                43.428118
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 11",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 313,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.892432,
+                43.428255
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 10",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 314,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.718187,
+                43.506624
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 8",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 315,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.717804,
+                43.507034
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 7",
+              "MjernaZona": "Srijane I",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 316,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.812466,
+                43.516633
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 3",
+              "MjernaZona": "Smoljanovići II",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 317,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.813006,
+                43.516697
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 4",
+              "MjernaZona": "Smoljanovići I",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 318,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.756313,
+                43.558961
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "Ime": "MM 1",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 319,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.820183,
+                43.402728
+              ]
+            },
+            "properties": {
+              "Tip": "MRO",
+              "Ime": "NT54",
+              "Opis": "EDC MM",
+              "Lokacija": "Marušići",
+              "TlacnaZona": "RV Marušići",
+              "MjernaZona": "Marušići",
+              "DN": 65,
+              "Materijal": "NL",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 320,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.815337,
+                43.404249
+              ]
+            },
+            "properties": {
+              "Tip": "MRO",
+              "Ime": "NT53",
+              "Opis": "EDC MM",
+              "Lokacija": "Mimice",
+              "TlacnaZona": "RV Mimice",
+              "MjernaZona": "Marušići",
+              "Napomena": "Nejasno",
+              "DN": 65,
+              "Materijal": "NL",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 321,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.829428,
+                43.440301
+              ]
+            },
+            "properties": {
+              "Tip": "MRO",
+              "H_mnm": 168.647,
+              "Ime": "NT52",
+              "Opis": "EDC MM",
+              "Lokacija": "Kostanje",
+              "TlacnaZona": "RV 19",
+              "MjernaZona": "Kostanje",
+              "Napomena": "Zamjena postojećeg regulatora",
+              "OptionalId": "T114_25022019",
+              "DN": 80,
+              "Materijal": "NL",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 322,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.80077,
+                43.434677
+              ]
+            },
+            "properties": {
+              "Tip": "MRO",
+              "Ime": "NT51",
+              "Opis": "EDC MM",
+              "Lokacija": "Kučiće",
+              "TlacnaZona": "RV 18",
+              "MjernaZona": "Kučiće  - sjever",
+              "Napomena": "Zamjena postojećeg regulatora",
+              "DN": 80,
+              "Materijal": "NL",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 323,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.845973,
+                43.427421
+              ]
+            },
+            "properties": {
+              "Tip": "MRO",
+              "Ime": "NT50",
+              "Opis": "EDC MM",
+              "Lokacija": "Penšići",
+              "TlacnaZona": "RV Penšići",
+              "MjernaZona": "Slime",
+              "Napomena": "Još jednom provjeriti. U koncepciji piše da je ulaz 20 bar",
+              "DN": 65,
+              "Materijal": "NL",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 324,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.691595,
+                43.444646
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT31",
+              "Opis": "EDC MM",
+              "Lokacija": "Poluotok kod mosta",
+              "MjernaZona": "Omiš - Punta",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIme": "EDC",
+              "DN": 100,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 325,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.819778,
+                43.5041
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT6",
+              "Opis": "EDC MM",
+              "Lokacija": "Smoljanovići prema Zečići",
+              "MjernaZona": "Smoljanovići I",
+              "Status": "Plan",
+              "Napomena": "U slučaju napajanja zagore iz Omiša preko VS Blato n/C",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "OptionalId": "T116_25022019",
+              "DN": 150,
+              "Materijal": "NL",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 326,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.713555,
+                43.505423
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT49",
+              "Opis": "EDC MM",
+              "Lokacija": "Donji Dolac",
+              "MjernaZona": "Donji Dolac",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 125,
+              "Materijal": "NL",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 327,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.880975,
+                43.46986
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT48",
+              "Opis": "EDC MM",
+              "Lokacija": "Donji Bilići",
+              "MjernaZona": "Kreševo",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "OptionalId": "NT48",
+              "DN": 150,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 328,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.968684,
+                43.424517
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "H_mnm": 254.8983,
+              "Ime": "NT47",
+              "Opis": "EDC MM",
+              "Lokacija": "Čikeši",
+              "MjernaZona": "Žeževica-Čikeši",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "OptionalId": "NT47",
+              "DN": 90,
+              "Materijal": "PEHD",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 329,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.916091,
+                43.451574
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT11",
+              "Opis": "EDC MM",
+              "Lokacija": "Šestanovac prema Žeževici",
+              "MjernaZona": "Žeževica",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "OptionalId": "20181105T19",
+              "DN": 150,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 330,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.902194,
+                43.437999
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT46",
+              "Opis": "EDC MM",
+              "Lokacija": "Popović i- Krnići",
+              "MjernaZona": "Zadvarje - Vrbanj",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "OptionalId": "NT46",
+              "DN": 100,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 331,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.833692,
+                43.440269
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "H_mnm": 204.28,
+              "Ime": "NT45",
+              "Opis": "EDC MM",
+              "Lokacija": "Sv. Mihovil",
+              "MjernaZona": "Kostanje",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "OptionalId": "T113_25022019",
+              "DN": 125,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 332,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.904317,
+                43.417502
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Oprema": "24800",
+              "Ime": "NT65",
+              "Opis": "9.2.2",
+              "Lokacija": "Gornja Brela",
+              "MjernaZona": "Gornja Brela",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "OptionalId": "PodpolitnicaMM",
+              "DN": 100,
+              "Materijal": "SL",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 333,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.801576,
+                43.432803
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT44",
+              "Opis": "EDC MM",
+              "Lokacija": "Radići",
+              "MjernaZona": "Kučiće - istok",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "OptionalId": "T111_25022019",
+              "DN": 150,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 334,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.801569,
+                43.432802
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT43",
+              "Opis": "EDC MM",
+              "Lokacija": "Radići",
+              "MjernaZona": "Kučiće - jug I",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "OptionalId": "T111_25022019",
+              "DN": 150,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 335,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.801589,
+                43.432717
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT42",
+              "Opis": "EDC MM",
+              "Lokacija": "Radići",
+              "MjernaZona": "Kučiće - zapad",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "OptionalId": "T109_25022019",
+              "DN": 150,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 336,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.767345,
+                43.429722
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "H_mnm": 212.6971,
+              "Ime": "NT41",
+              "Opis": "EDC MM",
+              "Lokacija": "Svinišće",
+              "MjernaZona": "Podašpilje",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "OptionalId": "T103_25022019",
+              "DN": 125,
+              "Materijal": "PEHD",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 337,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.83893,
+                43.402177
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT40",
+              "Opis": "EDC MM",
+              "Lokacija": "Brzet",
+              "MjernaZona": "Pisak",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 200,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 338,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.791612,
+                43.407191
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT39",
+              "Opis": "EDC MM",
+              "Lokacija": "Ivašnjak",
+              "MjernaZona": "Medići - Mimice",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 200,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 339,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.755586,
+                43.410009
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT38",
+              "Opis": "EDC MM",
+              "Lokacija": "Ruskamen prema Ćaletama",
+              "MjernaZona": "Ruskamen",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 250,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 340,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.735412,
+                43.414268
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT37",
+              "Opis": "EDC MM",
+              "Lokacija": "Čelina prema Ruskamenu",
+              "MjernaZona": "Stanići - Zavode",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 300,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 341,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.735532,
+                43.415249
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT36",
+              "Opis": "EDC MM",
+              "Lokacija": "Prema VS Čelina",
+              "MjernaZona": "Čelina",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 63,
+              "Materijal": "PEHD",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 342,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.710246,
+                43.437415
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT35",
+              "Opis": "EDC MM",
+              "Lokacija": "Izemđu Borka i Pešića",
+              "MjernaZona": "Čečuci",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 80,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 343,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.694592,
+                43.44268
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT34",
+              "Opis": "EDC MM",
+              "Lokacija": "Ispod Fortice 2",
+              "MjernaZona": "Omiš - jug",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 110,
+              "Materijal": "PEHD",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 344,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.694572,
+                43.443045
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT33",
+              "Opis": "EDC MM",
+              "Lokacija": "Ispod Fortice 1",
+              "MjernaZona": "Omiš - jug",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 150,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 345,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.692942,
+                43.443281
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT32",
+              "Opis": "EDC MM",
+              "Lokacija": "Poluotok kod škole",
+              "MjernaZona": "Omiš - Punta",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 100,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 346,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.692126,
+                43.444006
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT30",
+              "Opis": "EDC MM",
+              "Lokacija": "Poluotok",
+              "MjernaZona": "Omiš - Punta",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 100,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 347,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.683104,
+                43.443101
+              ]
+            },
+            "properties": {
+              "Tip": "MRO",
+              "Oprema": "60500",
+              "Ime": "NT56",
+              "Opis": "7.5.3",
+              "Lokacija": "Omiš - zapad",
+              "TlacnaZona": "RV Omiš",
+              "MjernaZona": "Omiš - zapad",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 250,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 348,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.691147,
+                43.445801
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT29",
+              "Opis": "EDC MM",
+              "Lokacija": "Na mostu",
+              "MjernaZona": "Omiš - stari grad",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 200,
+              "Materijal": "PEHD",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 349,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.692673,
+                43.447097
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT28",
+              "Opis": "EDC MM",
+              "Lokacija": "Kod hotela Vila Dvor",
+              "MjernaZona": "Zakučac",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 200,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 350,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.682461,
+                43.442752
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Oprema": "Povezati sa NT2",
+              "Ime": "NT27",
+              "Opis": "EDC MM",
+              "Lokacija": "Autokamp",
+              "MjernaZona": "Duće",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 250,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 351,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.644935,
+                43.440239
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT26",
+              "Opis": "EDC MM",
+              "Lokacija": "Dugi Rat",
+              "MjernaZona": "Duće",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 225,
+              "Materijal": "PEHD",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 352,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.641259,
+                43.445654
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT25",
+              "Opis": "EDC MM",
+              "Lokacija": "Dugi Rat",
+              "MjernaZona": "Dugi Rat - centar",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 250,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 353,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.634576,
+                43.447
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT24",
+              "Opis": "EDC MM",
+              "Lokacija": "Orij",
+              "MjernaZona": "Dugi Rat - zapad",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 250,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 354,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.615801,
+                43.456728
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT23",
+              "Opis": "EDC MM",
+              "Lokacija": "Suhi Potok",
+              "MjernaZona": "Jesenice - centar",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 200,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 355,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.595247,
+                43.461816
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT22",
+              "Opis": "EDC MM",
+              "Lokacija": "Krilo",
+              "MjernaZona": "Jesenice - zapad",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 200,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 356,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.769154,
+                43.45296
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT21",
+              "Opis": "EDC MM",
+              "Lokacija": "Badanj",
+              "MjernaZona": "Smolonje",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 100,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 357,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.753975,
+                43.456095
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT20",
+              "Opis": "EDC MM",
+              "Lokacija": "Slidinje",
+              "MjernaZona": "Zvečanje",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 100,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 358,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.727115,
+                43.461916
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT19",
+              "Opis": "EDC MM",
+              "Lokacija": "Ostrvica",
+              "MjernaZona": "Ostrvica Donja",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 100,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 359,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.715731,
+                43.463697
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT17",
+              "Opis": "EDC MM",
+              "Lokacija": "Kuvačići",
+              "MjernaZona": "Čišla",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 100,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 360,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.671007,
+                43.463109
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT18",
+              "Opis": "EDC MM",
+              "Lokacija": "Naklice",
+              "MjernaZona": "Naklice",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "OptionalId": "T1_25022019",
+              "DN": 150,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 361,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.633326,
+                43.480048
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Oprema": "34050",
+              "Ime": "NT55",
+              "Opis": "7.2.3.",
+              "Lokacija": "Pravac Srinjine (VIK ST)",
+              "MjernaZona": "Tugare - zapad",
+              "Status": "Plan",
+              "Napomena": "Dodatno",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "OptionalId": "T8_25022019",
+              "DN": 200,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 362,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.627089,
+                43.451175
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Oprema": "73850",
+              "Ime": "NT57",
+              "Opis": "7.7.2",
+              "Lokacija": "Pravac Jesenice",
+              "MjernaZona": "Jesenice - istok",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 250,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 363,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.81238,
+                43.405446
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Oprema": "73850",
+              "Ime": "NT60",
+              "Opis": "7.15.1",
+              "Lokacija": "Marušići - Pisak",
+              "MjernaZona": "Marušići",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 200,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 364,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.777262,
+                43.408879
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Oprema": "73850",
+              "Ime": "NT59",
+              "Opis": "7.14.6",
+              "Lokacija": "Pravac Mimice",
+              "MjernaZona": "Ivašnjak",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 250,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 365,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.73536,
+                43.41634
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT16",
+              "Opis": "EDC MM",
+              "Lokacija": "Prema Stanićima",
+              "MjernaZona": "Stanići - Tice",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 63,
+              "Materijal": "PEHD",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 366,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.725879,
+                43.417151
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Oprema": "73850",
+              "Ime": "NT58",
+              "Opis": "7.13.1",
+              "Lokacija": "Pravac Stanići",
+              "MjernaZona": "Stanići - Tice",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 300,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 367,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.616978,
+                43.48848
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "H_mnm": 277.6893,
+              "Ime": "NT15",
+              "Opis": "EDC MM",
+              "Lokacija": "Srinjine",
+              "MjernaZona": "Tugare - zapad",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "OptionalId": "T21_25022019",
+              "DN": 200,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 368,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.734555,
+                43.461556
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT14",
+              "Opis": "EDC MM",
+              "Lokacija": "PK Čišla",
+              "MjernaZona": "Ostrvica Gornja",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 100,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 369,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.705848,
+                43.466555
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT13",
+              "Opis": "EDC MM",
+              "Lokacija": "Gata od CS za VS Pocelje",
+              "MjernaZona": "Podselje",
+              "Status": "Plan",
+              "Napomena": "Provjeriti NUS u CS za Pocelje",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 80,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 370,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.909899,
+                43.454801
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "H_mnm": 244.97,
+              "Ime": "NT12",
+              "Opis": "EDC MM",
+              "Lokacija": "Šestanovac",
+              "MjernaZona": "Katuni",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "OptionalId": "NT12",
+              "DN": 200,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 371,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.84552,
+                43.479208
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT10",
+              "Opis": "EDC MM",
+              "Lokacija": "Blato na Cetini",
+              "MjernaZona": "Blato n/C - centar",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "OptionalId": "T2_25022019",
+              "DN": 80,
+              "Materijal": "NL",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 372,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.906852,
+                43.443523
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT9",
+              "Opis": "EDC MM",
+              "Lokacija": "Greda (Babići - Krnići)",
+              "MjernaZona": "Žeževica",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 150,
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 373,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.905115,
+                43.444468
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT8",
+              "Opis": "EDC MM",
+              "Lokacija": "Babići - Šestanovac",
+              "MjernaZona": "Šestanovac",
+              "Status": "Plan",
+              "Napomena": "Da li je potrebna obzirom na SCADA",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 250,
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 374,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.903435,
+                43.444039
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT7",
+              "Opis": "EDC MM",
+              "Lokacija": "Babići",
+              "MjernaZona": "Auto - cesta",
+              "Status": "Plan",
+              "Napomena": "Da li je potrebna obzirom na SCADA",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 250,
+              "Materijal": "NL?",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 375,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.890307,
+                43.428498
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Oprema": "28800",
+              "Ime": "NT61",
+              "Opis": "9.2.1",
+              "Lokacija": "Ispod Zadvarja",
+              "MjernaZona": "Podpoletnica",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 100,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 376,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.892849,
+                43.419608
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Oprema": "28800",
+              "Ime": "NT62",
+              "Opis": "9.3.1",
+              "Lokacija": "Ispod Sedla",
+              "MjernaZona": "Slime",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "DN": 150,
+              "Materijal": "AC",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 377,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.888209,
+                43.430187
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "H_mnm": 213,
+              "Oprema": "21800",
+              "Ime": "NT63",
+              "Opis": "9.4.1",
+              "Lokacija": "Kraljevac smjer Podgrađe",
+              "MjernaZona": "Podgrađe",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "OptionalId": "NT63",
+              "DN": 100,
+              "Materijal": "SL",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 378,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.786744,
+                43.519862
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Ime": "NT5",
+              "Opis": "EDC MM",
+              "Lokacija": "Zidine",
+              "MjernaZona": "Srijane I",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "OptionalId": "0309T162",
+              "DN": 125,
+              "Materijal": "NL",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 379,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.766169,
+                43.531704
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "Oprema": "27800",
+              "Ime": "NT66",
+              "Opis": "10.1",
+              "Lokacija": "Ulaz iz Sinja prema Novim Selima",
+              "MjernaZona": "Nova Sela - zapad",
+              "Status": "Plan",
+              "PodaciIzvor": "1_Omiš_postojece stanje_25000_5000_final_2010 (2).dwg",
+              "PodaciIme": "EDC",
+              "OptionalId": "0309T273",
+              "DN": 200,
+              "Materijal": "NL",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 380,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.743405,
+                43.532252
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "H_mnm": 246.5,
+              "Oprema": "PROTOK",
+              "Ime": "NT4",
+              "Opis": "EDC MM",
+              "Lokacija": "Izlaz iz Čikota - Karaman",
+              "MjernaZona": "Srijane II",
+              "Status": "Plan",
+              "Napomena": "MJERAČ PROTOKA",
+              "PodaciTocnost": "GEO",
+              "PodaciIme": "EDC",
+              "OptionalId": "0310TVO7",
+              "DN": 125,
+              "Materijal": "NL",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 381,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.784498,
+                43.52105
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "H_mnm": 409.90891,
+              "Oprema": "MANOMETAR",
+              "Ime": "NT2",
+              "Opis": "EDC MM",
+              "Lokacija": "Nova Sela - sjever, Nova Sela - centar",
+              "MjernaZona": "Nova Sela",
+              "Status": "Plan",
+              "PodaciTocnost": "GEO",
+              "PodaciIme": "EDC",
+              "OptionalId": "0309T162",
+              "DN": 200,
+              "Materijal": "NL",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 382,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.804495,
+                43.512916
+              ]
+            },
+            "properties": {
+              "Tip": "MO",
+              "H_mnm": 449.06518,
+              "Oprema": "MANOMETAR",
+              "Ime": "NT1",
+              "Opis": "EDC MM",
+              "Lokacija": "Pleići",
+              "MjernaZona": "Smoljanovići II",
+              "Status": "Plan",
+              "Napomena": "MANOMETAR, NEKAD ZV. POGLE SLIKE",
+              "PodaciTocnost": "GEO",
+              "PodaciIme": "EDC",
+              "OptionalId": "0309T58",
+              "DN": 200,
+              "Materijal": "NL",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 383,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.754169,
+                43.575502
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "H_mnm": 386,
+              "Status": "Izvedeno",
+              "PodaciIme": "EDC",
+              "OptionalId": "smjerTrilja",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 384,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.761683,
+                43.536485
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "H_mnm": 380,
+              "Status": "Izvedeno",
+              "PodaciIme": "EDC",
+              "OptionalId": "NovaSelaRacva",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 385,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.761616,
+                43.538301
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "H_mnm": 378,
+              "Status": "Izvedeno",
+              "PodaciIme": "EDC",
+              "OptionalId": "NovaSela",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 386,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.755641,
+                43.576211
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "H_mnm": 386,
+              "Status": "Izvedeno",
+              "PodaciIme": "EDC",
+              "OptionalId": "dovodMarasovici",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 387,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.784849,
+                43.521292
+              ]
+            },
+            "properties": {
+              "Tip": "P",
+              "H_mnm": 412,
+              "Opis": "PDL 15",
+              "Status": "Izvedeno",
+              "PodaciIme": "EDC",
+              "OptionalId": "Oid20308",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 388,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.784502,
+                43.52105
+              ]
+            },
+            "properties": {
+              "Tip": "P",
+              "H_mnm": 409.9208,
+              "Opis": "PDL 6",
+              "Status": "Izvedeno",
+              "PodaciIme": "EDC",
+              "OptionalId": "ispredKapelice",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 389,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.743405,
+                43.532252
+              ]
+            },
+            "properties": {
+              "H_mnm": 246.5,
+              "Oprema": "PROTOK",
+              "Napomena": "MJERAČ PROTOKA",
+              "PodaciTocnost": "GEO",
+              "PodaciIme": "EDC",
+              "OptionalId": "0310TVO7",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 390,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.761612,
+                43.537707
+              ]
+            },
+            "properties": {
+              "Tip": "Q",
+              "H_mnm": 377.8689,
+              "Status": "Izvedeno",
+              "Napomena": "PROTOK",
+              "PodaciTocnost": "GEO",
+              "PodaciIme": "EDC",
+              "OptionalId": "0310T286",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 391,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.771165,
+                43.525031
+              ]
+            },
+            "properties": {
+              "Tip": "P",
+              "H_mnm": 387.47324,
+              "MjernaZona": "Nova Sela - zapad",
+              "Status": "Izvedeno",
+              "Napomena": "MJERAC TLAKA PDL 03",
+              "PodaciTocnost": "GEO",
+              "PodaciIme": "EDC",
+              "OptionalId": "0309T278",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 392,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.766169,
+                43.531704
+              ]
+            },
+            "properties": {
+              "H_mnm": 387.56672,
+              "Oprema": "BROJILO",
+              "MjernaZona": "Nova Sela - zapad",
+              "Napomena": "BROJILO",
+              "PodaciTocnost": "GEO",
+              "PodaciIme": "EDC",
+              "OptionalId": "0309T273",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 393,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.761494,
+                43.536408
+              ]
+            },
+            "properties": {
+              "H_mnm": 379.28613,
+              "Oprema": "BROJILO",
+              "Napomena": "BROJILO",
+              "PodaciTocnost": "GEO",
+              "PodaciIme": "EDC",
+              "OptionalId": "0309T260",
+              "Klasa": "MjernoMjesto"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 394,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.784497,
+                43.52105
+              ]
+            },
+            "properties": {
+              "H_mnm": 409.90891,
+              "Oprema": "MANOMETAR",
+              "PodaciTocnost": "GEO",
+              "PodaciIme": "EDC",
+              "OptionalId": "0309T162",
+              "Klasa": "MjernoMjesto"
+            }
+          }
+    ]
+}

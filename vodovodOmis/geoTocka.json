@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.686242,
+                43.444554
+              ]
+            },
+            "properties": {
+              "Ime": "G1(a0)",
+              "Hobj_mnm": 0.008500000461936,
+              "Klasa": "GeoTocka"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.686403,
+                43.444641
+              ]
+            },
+            "properties": {
+              "Ime": "G2(a0)",
+              "Hobj_mnm": -0.12710000574589,
+              "Klasa": "GeoTocka"
+            }
+          }
+    ]
+}

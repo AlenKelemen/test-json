@@ -1,0 +1,1541 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 176,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.916088,
+                        43.451575
+                    ],
+                    [
+                        16.916086,
+                        43.451573
+                    ],
+                    [
+                        16.916083,
+                        43.451569
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Šestanovac",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 177,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.762877,
+                        43.529178
+                    ],
+                    [
+                        16.762872,
+                        43.529158
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Srijane III",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 178,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.760493,
+                        43.528555
+                    ],
+                    [
+                        16.760483,
+                        43.528542
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Srijane III",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 179,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.757343,
+                        43.531012
+                    ],
+                    [
+                        16.757333,
+                        43.531007
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Srijane III",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 180,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.754408,
+                        43.531281
+                    ],
+                    [
+                        16.754353,
+                        43.531257
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Srijane III",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 181,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.761855,
+                        43.534625
+                    ],
+                    [
+                        16.761862,
+                        43.534628
+                    ],
+                    [
+                        16.761866,
+                        43.534629
+                    ]
+                ]
+            },
+            "properties": {
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 182,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.77614,
+                        43.525532
+                    ],
+                    [
+                        16.776158,
+                        43.525541
+                    ],
+                    [
+                        16.776162,
+                        43.525543
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Nova Sela - zapad",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 183,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.779255,
+                        43.523861
+                    ],
+                    [
+                        16.779269,
+                        43.523883
+                    ],
+                    [
+                        16.77927,
+                        43.523887
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Nova Sela - zapad",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 184,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.748306,
+                        43.496461
+                    ],
+                    [
+                        16.748303,
+                        43.496457
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Trnbusi",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 185,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.761688,
+                        43.536509
+                    ],
+                    [
+                        16.761683,
+                        43.536509
+                    ]
+                ]
+            },
+            "properties": {
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 186,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.79626,
+                        43.524016
+                    ],
+                    [
+                        16.796214,
+                        43.52395
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Nova Sela - sjever",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 187,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.793437,
+                        43.525523
+                    ],
+                    [
+                        16.793463,
+                        43.525538
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Nova Sela - sjever",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.803422,
+                        43.512735
+                    ],
+                    [
+                        16.80342,
+                        43.512744
+                    ],
+                    [
+                        16.80342,
+                        43.512748
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Nova Sela - centar",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 189,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.78399,
+                        43.519715
+                    ],
+                    [
+                        16.783986,
+                        43.519713
+                    ],
+                    [
+                        16.783973,
+                        43.519706
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Nova Sela - centar",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 190,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.781325,
+                        43.516366
+                    ],
+                    [
+                        16.781333,
+                        43.516362
+                    ],
+                    [
+                        16.781372,
+                        43.516339
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Nova Sela - centar",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 191,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.788011,
+                        43.518973
+                    ],
+                    [
+                        16.788016,
+                        43.518976
+                    ],
+                    [
+                        16.788019,
+                        43.518978
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Nova Sela - centar",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 192,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.797506,
+                        43.51805
+                    ],
+                    [
+                        16.797508,
+                        43.518042
+                    ],
+                    [
+                        16.797508,
+                        43.518039
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Nova Sela - centar",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 193,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.802336,
+                        43.513283
+                    ],
+                    [
+                        16.802342,
+                        43.513285
+                    ],
+                    [
+                        16.802347,
+                        43.513285
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Nova Sela - centar",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 194,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.805953,
+                        43.512796
+                    ],
+                    [
+                        16.805952,
+                        43.512801
+                    ],
+                    [
+                        16.805954,
+                        43.512803
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Smoljanovići II",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 195,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.807406,
+                        43.512769
+                    ],
+                    [
+                        16.807409,
+                        43.512772
+                    ],
+                    [
+                        16.807413,
+                        43.512774
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Smoljanovići II",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 196,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.788011,
+                        43.518973
+                    ],
+                    [
+                        16.788016,
+                        43.518976
+                    ],
+                    [
+                        16.788019,
+                        43.518978
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Nova Sela - centar",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 197,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.804381,
+                        43.517058
+                    ],
+                    [
+                        16.804388,
+                        43.517057
+                    ],
+                    [
+                        16.804393,
+                        43.517057
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Nova Sela - centar",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 198,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.802336,
+                        43.513283
+                    ],
+                    [
+                        16.802342,
+                        43.513285
+                    ],
+                    [
+                        16.802347,
+                        43.513285
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Nova Sela - centar",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 199,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.733413,
+                        43.496648
+                    ],
+                    [
+                        16.73343,
+                        43.496637
+                    ],
+                    [
+                        16.733441,
+                        43.496631
+                    ]
+                ]
+            },
+            "properties": {
+                "Oprema": "18.1.2015. 0:00:00",
+                "MjernaZona": "Trnbusi",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 200,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.717541,
+                        43.499707
+                    ],
+                    [
+                        16.717545,
+                        43.499709
+                    ],
+                    [
+                        16.717552,
+                        43.499711
+                    ]
+                ]
+            },
+            "properties": {
+                "Oprema": "18.1.2015. 0:00:00",
+                "MjernaZona": "Trnbusi",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 201,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.698829,
+                        43.519363
+                    ],
+                    [
+                        16.698832,
+                        43.519365
+                    ],
+                    [
+                        16.698835,
+                        43.519367
+                    ]
+                ]
+            },
+            "properties": {
+                "Oprema": "18.1.2015. 0:00:00",
+                "MjernaZona": "Donji Dolac",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 202,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.701553,
+                        43.517316
+                    ],
+                    [
+                        16.70155,
+                        43.517314
+                    ],
+                    [
+                        16.701547,
+                        43.517312
+                    ]
+                ]
+            },
+            "properties": {
+                "Oprema": "18.1.2015. 0:00:00",
+                "MjernaZona": "Donji Dolac",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 203,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.708501,
+                        43.511132
+                    ],
+                    [
+                        16.708497,
+                        43.511131
+                    ],
+                    [
+                        16.708493,
+                        43.51113
+                    ]
+                ]
+            },
+            "properties": {
+                "Oprema": "18.1.2015. 0:00:00",
+                "MjernaZona": "Donji Dolac",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 204,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.712998,
+                        43.505821
+                    ],
+                    [
+                        16.712995,
+                        43.505819
+                    ],
+                    [
+                        16.712993,
+                        43.505817
+                    ]
+                ]
+            },
+            "properties": {
+                "Oprema": "18.1.2015. 0:00:00",
+                "MjernaZona": "Donji Dolac",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 205,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.811477,
+                        43.486496
+                    ],
+                    [
+                        16.811467,
+                        43.486487
+                    ],
+                    [
+                        16.811466,
+                        43.486486
+                    ]
+                ]
+            },
+            "properties": {
+                "Oprema": "18.1.2015. 0:00:00",
+                "MjernaZona": "Trnbusi",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 206,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.784182,
+                        43.495733
+                    ],
+                    [
+                        16.784182,
+                        43.495735
+                    ],
+                    [
+                        16.784183,
+                        43.495743
+                    ]
+                ]
+            },
+            "properties": {
+                "Oprema": "18.1.2015. 0:00:00",
+                "MjernaZona": "Trnbusi",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 207,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.681101,
+                        43.518519
+                    ],
+                    [
+                        16.6811,
+                        43.518516
+                    ],
+                    [
+                        16.681099,
+                        43.518511
+                    ]
+                ]
+            },
+            "properties": {
+                "Oprema": "18.1.2015. 0:00:00",
+                "MjernaZona": "Donji Dolac",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 208,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.693446,
+                        43.516241
+                    ],
+                    [
+                        16.693449,
+                        43.516239
+                    ],
+                    [
+                        16.693473,
+                        43.516227
+                    ]
+                ]
+            },
+            "properties": {
+                "Oprema": "18.1.2015. 0:00:00",
+                "MjernaZona": "Donji Dolac",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 209,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.678641,
+                        43.519546
+                    ],
+                    [
+                        16.678639,
+                        43.519544
+                    ],
+                    [
+                        16.678602,
+                        43.519508
+                    ]
+                ]
+            },
+            "properties": {
+                "Oprema": "18.1.2015. 0:00:00",
+                "MjernaZona": "Donji Dolac",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 210,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.683248,
+                        43.518321
+                    ],
+                    [
+                        16.683252,
+                        43.51833
+                    ],
+                    [
+                        16.683253,
+                        43.518333
+                    ]
+                ]
+            },
+            "properties": {
+                "Oprema": "18.1.2015. 0:00:00",
+                "MjernaZona": "Donji Dolac",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 211,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.761598,
+                        43.502262
+                    ],
+                    [
+                        16.761568,
+                        43.502274
+                    ]
+                ]
+            },
+            "properties": {
+                "Oprema": "18.1.2015. 0:00:00",
+                "MjernaZona": "Trnbusi",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 212,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.807738,
+                        43.49002
+                    ],
+                    [
+                        16.807766,
+                        43.49002
+                    ]
+                ]
+            },
+            "properties": {
+                "Oprema": "18.1.2015. 0:00:00",
+                "MjernaZona": "Trnbusi",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 213,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.730656,
+                        43.496252
+                    ],
+                    [
+                        16.730658,
+                        43.496245
+                    ]
+                ]
+            },
+            "properties": {
+                "Oprema": "18.1.2015. 0:00:00",
+                "MjernaZona": "Trnbusi",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 214,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.824622,
+                        43.4289
+                    ],
+                    [
+                        16.824624,
+                        43.428906
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Kučiće - istok",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 215,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.623849,
+                        43.454059
+                    ],
+                    [
+                        16.623985,
+                        43.454066
+                    ],
+                    [
+                        16.623985,
+                        43.454068
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Jesenice - istok",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 216,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.644345,
+                        43.441687
+                    ],
+                    [
+                        16.64434,
+                        43.441685
+                    ],
+                    [
+                        16.64434,
+                        43.441685
+                    ]
+                ]
+            },
+            "properties": {
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 217,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.892117,
+                        43.432611
+                    ],
+                    [
+                        16.892081,
+                        43.432631
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Zadvarje - centar",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 218,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.691594,
+                        43.444549
+                    ],
+                    [
+                        16.691387,
+                        43.444715
+                    ],
+                    [
+                        16.691389,
+                        43.444713
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Omiš - Punta",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 219,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.784761,
+                        43.426557
+                    ],
+                    [
+                        16.784749,
+                        43.426558
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Svinišće",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 220,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.784511,
+                        43.427341
+                    ],
+                    [
+                        16.784518,
+                        43.427342
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Svinišće",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 221,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.821618,
+                        43.502528
+                    ],
+                    [
+                        16.821513,
+                        43.502569
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Blato na Cetini - sjever",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 222,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.81303,
+                        43.496305
+                    ],
+                    [
+                        16.81304,
+                        43.496394
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Blato na Cetini - sjever",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 223,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.822952,
+                        43.48971
+                    ],
+                    [
+                        16.822959,
+                        43.489998
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Blato na Cetini - sjever",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 224,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.806048,
+                        43.508634
+                    ],
+                    [
+                        16.805996,
+                        43.508562
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Smoljanovići I",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 225,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.804577,
+                        43.507164
+                    ],
+                    [
+                        16.804688,
+                        43.507165
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Smoljanovići I",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 226,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.71094,
+                        43.423671
+                    ],
+                    [
+                        16.710913,
+                        43.42373
+                    ]
+                ]
+            },
+            "properties": {
+                "MjernaZona": "Omiš - istok",
+                "PodaciIme": "EDC",
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 227,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.802257,
+                        43.404544
+                    ],
+                    [
+                        16.802261,
+                        43.404545
+                    ]
+                ]
+            },
+            "properties": {
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 228,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.787937,
+                        43.407731
+                    ],
+                    [
+                        16.787941,
+                        43.407737
+                    ]
+                ]
+            },
+            "properties": {
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 230,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.771557,
+                        43.409919
+                    ],
+                    [
+                        16.771557,
+                        43.409921
+                    ]
+                ]
+            },
+            "properties": {
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 231,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.779526,
+                        43.446891
+                    ],
+                    [
+                        16.779527,
+                        43.446885
+                    ]
+                ]
+            },
+            "properties": {
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 232,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.771061,
+                        43.451631
+                    ],
+                    [
+                        16.771065,
+                        43.451623
+                    ]
+                ]
+            },
+            "properties": {
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 233,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.907267,
+                        43.443503
+                    ],
+                    [
+                        16.907267,
+                        43.443507
+                    ]
+                ]
+            },
+            "properties": {
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 234,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.911105,
+                        43.443597
+                    ],
+                    [
+                        16.911105,
+                        43.443593
+                    ]
+                ]
+            },
+            "properties": {
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 235,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.923142,
+                        43.43958
+                    ],
+                    [
+                        16.923147,
+                        43.439584
+                    ]
+                ]
+            },
+            "properties": {
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 236,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.902431,
+                        43.444339
+                    ],
+                    [
+                        16.902435,
+                        43.444335
+                    ]
+                ]
+            },
+            "properties": {
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 237,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.844303,
+                        43.466855
+                    ],
+                    [
+                        16.844314,
+                        43.466864
+                    ]
+                ]
+            },
+            "properties": {
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 238,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.851926,
+                        43.463638
+                    ],
+                    [
+                        16.851923,
+                        43.463632
+                    ]
+                ]
+            },
+            "properties": {
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 239,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.869759,
+                        43.456905
+                    ],
+                    [
+                        16.86976,
+                        43.456899
+                    ]
+                ]
+            },
+            "properties": {
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 240,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.872588,
+                        43.455677
+                    ],
+                    [
+                        16.872586,
+                        43.455672
+                    ]
+                ]
+            },
+            "properties": {
+                "Klasa": "HidrantskiVod"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 241,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.884643,
+                        43.45356
+                    ],
+                    [
+                        16.884646,
+                        43.453555
+                    ]
+                ]
+            },
+            "properties": {
+                "Klasa": "HidrantskiVod"
+            }
+        }
+    ]
+}

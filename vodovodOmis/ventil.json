@@ -1,0 +1,1212 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 3529,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.76222,
+                43.428714
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 247.2599,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Četvrtasti",
+              "DN": 50,
+              "Ime": "RV2(pd)",
+              "Opis": "Reducir ventil na trasi za zaseok Mimice",
+              "Lokacija": "Podašpilje(Podašpiljska Cesta)",
+              "MjernaZona": "Podašpilje",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "OcjenaStanja": 4,
+              "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "RV2(pd)",
+              "Tlak": 5.5,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3530,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.75133,
+                43.433545
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 275.4493,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Četvrtasti",
+              "DN": 50,
+              "Ime": "RV1(pd)",
+              "Opis": "Reducir ventil na trasi za zaseok Raljevići",
+              "Lokacija": "Podašpilje(Put Raljevića)",
+              "MjernaZona": "Podašpilje",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Kvar",
+              "OcjenaStanja": 1,
+              "PodaciIzvor": "Trimble GeoXH+G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "RV1(pd)",
+              "Tlak": 5,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3531,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.829413,
+                43.440295
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 168.7516,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Četvrtasti",
+              "DN": 80,
+              "Ime": "RV1(aa)",
+              "Opis": "Reducir ventil na trasi za zaseok Tičinovići",
+              "Lokacija": "Kostanje(Put Studenaca)",
+              "MjernaZona": "Kostanje - zapad",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Kvar",
+              "OcjenaStanja": 1,
+              "PodaciIzvor": "Trimble GeoXH+G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "RV1(aa)",
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3532,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.822293,
+                43.496934
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 350.8719,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Četvrtasti",
+              "DN": 100,
+              "Ime": "RV9(bc)",
+              "Opis": "Reducir ventil na glavnoj",
+              "Lokacija": "Blato n/C(Dračevice)",
+              "MjernaZona": "Blato na Cetini - sjever",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "GodinaIzgradnje": 2008,
+              "OcjenaStanja": 7,
+              "PodaciIzvor": "Trimble GeoXH+G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "RV9(bc)",
+              "Tlak": 2,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3533,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.826739,
+                43.487844
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 257.9114,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Četvrtasti",
+              "DN": 50,
+              "Ime": "RV8(bc)",
+              "Opis": "Reducir ventil na trasi za zaseok Strižić",
+              "Lokacija": "Blato n/C(Jenkijeva)",
+              "MjernaZona": "Blato na Cetini - centar",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "GodinaIzgradnje": 2008,
+              "OcjenaStanja": 7,
+              "PodaciIzvor": "Trimble GeoXH+G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "RV8(bc)",
+              "Tlak": 4.6,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3534,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.832201,
+                43.488611
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 250.5639,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Četvrtasti",
+              "DN": 50,
+              "Ime": "RV7(bc)",
+              "Opis": "Reducir ventil na trasi za zaseok Gale",
+              "Lokacija": "Blato n/C(Put Čelopeka)",
+              "MjernaZona": "Blato na Cetini - centar",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "GodinaIzgradnje": 2008,
+              "OcjenaStanja": 7,
+              "PodaciIzvor": "Trimble GeoXH+G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "RV7(bc)",
+              "Tlak": 5,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3535,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.831167,
+                43.486994
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 241.9775,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Četvrtasti",
+              "DN": 50,
+              "Ime": "RV6(bc)",
+              "Opis": "Reducir ventil na trasi za zaseok Bartulovići",
+              "Lokacija": "Blato n/C(Fra.Andrije Kačića)",
+              "MjernaZona": "Blato na Cetini - centar",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "GodinaIzgradnje": 2008,
+              "OcjenaStanja": 7,
+              "PodaciIzvor": "Trimble GeoXH+G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "RV6(bc)",
+              "Tlak": 3,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3536,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.840545,
+                43.482997
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 213.2864,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Četvrtasti",
+              "DN": 50,
+              "Ime": "RV5(bc)",
+              "Opis": "Reducir ventil na trasi za zaseok Madunići",
+              "Lokacija": "Blato n/C(Dr.Franje Tuđmana)",
+              "MjernaZona": "Blato na Cetini - centar",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "GodinaIzgradnje": 2008,
+              "OcjenaStanja": 7,
+              "PodaciIzvor": "Trimble GeoXH+G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "RV5(bc)",
+              "Tlak": 4,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3537,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.8459,
+                43.479955
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 207.8235,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Četvrtasti",
+              "DN": 50,
+              "Ime": "RV4(bc)",
+              "Opis": "Reducir ventil na trasi za centar Blata n/C",
+              "Lokacija": "Blato n/C(Kralja Tomislava)",
+              "MjernaZona": "Blato na Cetini - centar",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "GodinaIzgradnje": 2008,
+              "OcjenaStanja": 7,
+              "PodaciIzvor": "Trimble GeoXH+G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "RV4(bc)",
+              "Tlak": 4.5,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3538,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.845518,
+                43.479204
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 207.4305,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Četvrtasti",
+              "DN": 50,
+              "Ime": "RV3(bc)",
+              "Opis": "Reducir ventil na trasi za zaseok Centić ",
+              "Lokacija": "Blato n/C(Kralja Tomislava)",
+              "MjernaZona": "Blato na Cetini - centar",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "GodinaIzgradnje": 2008,
+              "OcjenaStanja": 7,
+              "PodaciIzvor": "Trimble GeoXH+G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "RV3(bc)",
+              "Tlak": 4,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3539,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.844793,
+                43.476164
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 242.3208,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Četvrtasti",
+              "DN": 50,
+              "Ime": "RV2(bc)",
+              "Opis": "Reducir ventil na trasi za zaseoke Babajići i Dajaci",
+              "Lokacija": "Blato n/C(Pod Steklićem)",
+              "MjernaZona": "Blato na Cetini - jug",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "GodinaIzgradnje": 2008,
+              "OcjenaStanja": 7,
+              "PodaciIzvor": "Trimble GeoXH+G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "RV2(bc)",
+              "Tlak": 4,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3540,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.841286,
+                43.474999
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 244.9829,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Četvrtasti",
+              "DN": 50,
+              "Ime": "RV1(bc)",
+              "Opis": "Reducir ventil na trasi za zaseok Franići",
+              "Lokacija": "Blato n/C(Alvira Franića)",
+              "MjernaZona": "Blato na Cetini - jug",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "GodinaIzgradnje": 2008,
+              "OcjenaStanja": 7,
+              "PodaciIzvor": "Trimble GeoXH+G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "RV1(bc)",
+              "Tlak": 3.6,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3541,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.674796,
+                43.459565
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 267.485,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Četvrtasti",
+              "DN": 100,
+              "Ime": "RV2(n0)",
+              "Lokacija": "Naklice(Naklice)",
+              "MjernaZona": "Naklice",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "OcjenaStanja": 3,
+              "PodaciIzvor": "Teren",
+              "PodaciTocnost": "GEO",
+              "PodaciIme": "EDC",
+              "OptionalId": "T4_25022019",
+              "Tlak": 2.2,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3542,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.671012,
+                43.463118
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 306.8291,
+              "MjernaZona": "Tugare istok",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "OcjenaStanja": 3,
+              "Napomena": "Redukcija, upitno da li radi",
+              "PodaciTocnost": "GEO",
+              "PodaciIme": "EDC",
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3543,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.632905,
+                43.480202
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 272.7397,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Četvrtasti",
+              "DN": 125,
+              "Ime": "RV2(t0)",
+              "Opis": "Reducir ventil na trasi za Put Račnika",
+              "Lokacija": "Tugare(Put Račnika)",
+              "MjernaZona": "Tugare zapad",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "OcjenaStanja": 3,
+              "Napomena": "Redukcija, upitno da li radi",
+              "PodaciIzvor": "Teren",
+              "PodaciTocnost": "GEO",
+              "PodaciIme": "EDC",
+              "OptionalId": "RV2(t0)",
+              "Tlak": 2.8,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3544,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.632911,
+                43.480199
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 272.7397,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Četvrtasti",
+              "DN": 100,
+              "Ime": "RV1(t0)",
+              "Opis": "Reducir ventil na trasi za Put Račnika",
+              "Lokacija": "Tugare(Put Račnika)",
+              "MjernaZona": "Tugare zapad",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "OcjenaStanja": 3,
+              "Napomena": "Redukcija, upitno da li radi",
+              "PodaciIzvor": "Teren",
+              "PodaciTocnost": "GEO",
+              "PodaciIme": "EDC",
+              "OptionalId": "RV1(t0)",
+              "Tlak": 2.8,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3545,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.968518,
+                43.42487
+              ]
+            },
+            "properties": {
+              "Hteren_mnm": 257.63412,
+              "MjernaZona": "Žeževica",
+              "PodaciTocnost": "GEO",
+              "PodaciIme": "EDC",
+              "OptionalId": "20181105T50",
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3546,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.933126,
+                43.44326
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "H_mnm": 256.2174,
+              "Hteren_mnm": 256.2174,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Četvrtasti",
+              "DN": 100,
+              "Ime": "V2(q0)",
+              "Opis": "Ventil",
+              "Lokacija": "Žeževica(Kalajžići)",
+              "MjernaZona": "Žeževica",
+              "LokalnaUprava": "Općina Šestanovac",
+              "Status": "Izgradnja",
+              "GodinaIzgradnje": 2018,
+              "OcjenaStanja": 10,
+              "PodaciIzvor": "Trimble R8s + Trimble TSC3",
+              "PodaciTocnost": "GEO",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "V2(q0)",
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3547,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.620518,
+                43.480203
+              ]
+            },
+            "properties": {
+              "Tip": "V",
+              "H_mnm": 229.5251,
+              "Hteren_mnm": 229.5251,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Četvrtasto",
+              "DN": 50,
+              "Opis": "Ventil",
+              "Lokacija": "Tugare",
+              "MjernaZona": "Tugare zapad",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "GodinaIzgradnje": 2018,
+              "OcjenaStanja": 10,
+              "PodaciIzvor": "Trimble R8s + Trimble TSC3",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3548,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.686841,
+                43.443736
+              ]
+            },
+            "properties": {
+              "Tip": "KV",
+              "H_mnm": 1.7804,
+              "Hteren_mnm": 1.7804,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Okruglo",
+              "Ime": "V1",
+              "Opis": "Kombi Ventil",
+              "Lokacija": "Omiš(Priko)",
+              "MjernaZona": "Omiš - zapad",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "GodinaIzgradnje": 2017,
+              "OcjenaStanja": 10,
+              "PodaciIzvor": "GPS Teren",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "KV1(a0)",
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3549,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.731648,
+                43.415358
+              ]
+            },
+            "properties": {
+              "Tip": "V",
+              "H_mnm": 107.8785,
+              "Hteren_mnm": 107.8785,
+              "DN": 80,
+              "Lokacija": "Stanići",
+              "MjernaZona": "Stanići - Tice",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "GodinaIzgradnje": 2017,
+              "OcjenaStanja": 10,
+              "PodaciIzvor": "GPS Teren",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3550,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.757977,
+                43.535344
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "MjernaZona": "Srijane III",
+              "OptionalId": "Lađa okno 1",
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3551,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.757955,
+                43.535339
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "MjernaZona": "Srijane III",
+              "OptionalId": "Lađa okno 1",
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3552,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.770481,
+                43.523628
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 371.67814461949,
+              "MjernaZona": "Nova Sela - zapad",
+              "PodaciIzvor": "Nova Sela Sekundarni Cjevovodi.dwg",
+              "PodaciIme": "Vicko",
+              "OptionalId": "RV OV 1",
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3553,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.783231,
+                43.521663
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 410.20136020836,
+              "MjernaZona": "Nova Sela - zapad",
+              "PodaciIzvor": "Nova Sela Sekundarni Cjevovodi.dwg",
+              "PodaciIme": "Vicko",
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3554,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.78175,
+                43.520074
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 400.65201923177,
+              "MjernaZona": "Nova Sela - zapad",
+              "PodaciIzvor": "Nova Sela Sekundarni Cjevovodi.dwg",
+              "PodaciIme": "Vicko",
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3555,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.782357,
+                43.522051
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 411.44095601669,
+              "MjernaZona": "Nova Sela - zapad",
+              "PodaciIzvor": "Nova Sela Sekundarni Cjevovodi.dwg",
+              "PodaciIme": "Vicko",
+              "OptionalId": "OV RV 2",
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3556,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.765748,
+                43.49376
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 348.33092,
+              "MjernaZona": "Trnbusi",
+              "PodaciTocnost": "GEO",
+              "PodaciIme": "EDC",
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3557,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.755946,
+                43.496281
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 384.18977,
+              "MjernaZona": "Trnbusi",
+              "PodaciTocnost": "GEO",
+              "PodaciIme": "EDC",
+              "OptionalId": "0310T313",
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3558,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.726427,
+                43.517132
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 420.23781,
+              "Napomena": "NA 4,2 BARA",
+              "PodaciTocnost": "GEO",
+              "PodaciIme": "EDC",
+              "OptionalId": "0310T299",
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3559,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.784344,
+                43.519112
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 409.55868,
+              "MjernaZona": "Nova Sela - centar",
+              "PodaciTocnost": "GEO",
+              "PodaciIme": "EDC",
+              "OptionalId": "0309T194",
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3560,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.747865,
+                43.497823
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 409.55868,
+              "MjernaZona": "Trnbusi",
+              "PodaciTocnost": "GEO",
+              "PodaciIme": "EDC",
+              "OptionalId": "0310T309",
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3561,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.808352,
+                43.406762
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 65.1559,
+              "OknoMaterijal": "BLOKETI",
+              "OknoOblik": "Četvrtasti",
+              "DN": 100,
+              "Ime": "RV1(m0)",
+              "Lokacija": "Mimice(Sv.Roka)",
+              "MjernaZona": "Medići - Mimice",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "OcjenaStanja": 4,
+              "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciDatum": "2019-04-22 08:14:38",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "1(m0)",
+              "Tlak": 2.2,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3562,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.812402,
+                43.405444
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 66.79,
+              "OknoMaterijal": "BLOKETI",
+              "OknoOblik": "Četvrtasti",
+              "DN": 50,
+              "Ime": "RV2(m0)",
+              "Lokacija": "Mimice(Sv.Roka)",
+              "MjernaZona": "Medići - Mimice",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "OcjenaStanja": 2,
+              "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciDatum": "2019-04-22 08:14:43",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "4(m0)",
+              "Tlak": 3.5,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3563,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.800645,
+                43.406019
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 68.1881,
+              "OknoMaterijal": "BLOKETI",
+              "OknoOblik": "Četvrtasti",
+              "DN": 80,
+              "Ime": "RV3(m0)",
+              "Lokacija": "Mimice(Staro Selo)",
+              "MjernaZona": "Medići - Mimice",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "OcjenaStanja": 3,
+              "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciDatum": "2019-04-22 08:14:47",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "25(m0)",
+              "Tlak": 2.2,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3564,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.783526,
+                43.408815
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 68.5841,
+              "OknoMaterijal": "BLOKETI",
+              "OknoOblik": "Četvrtasti",
+              "DN": 100,
+              "Ime": "RV1(rr)",
+              "Lokacija": "Lokva Rogoznica(Ivašnjak VI)",
+              "MjernaZona": "Ivašnjak",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "OcjenaStanja": 4,
+              "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciDatum": "2019-04-22 14:42:31",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "4(rr)",
+              "Tlak": 2.8,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3565,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.776718,
+                43.409076
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 68.6893,
+              "OknoMaterijal": "BLOKETI",
+              "OknoOblik": "Četvrtasti",
+              "DN": 50,
+              "Ime": "RV2(rr)",
+              "Lokacija": "Lokva Rogoznica(Ogranak Lokva)",
+              "MjernaZona": "Ruskamen",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "OcjenaStanja": 4,
+              "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciDatum": "2019-04-22 14:42:31",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "29(rr)",
+              "Tlak": 3.8,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3566,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.771565,
+                43.409918
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 67.1345,
+              "OknoMaterijal": "BLOKETI",
+              "OknoOblik": "Četvrtasti",
+              "DN": 80,
+              "Ime": "RV3(rr)",
+              "Lokacija": "Lokva Rogoznica(Ogranak Lokva)",
+              "MjernaZona": "Ruskamen",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "OcjenaStanja": 4,
+              "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciDatum": "2019-04-22 14:42:31",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "30(rr)",
+              "Tlak": 3,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3567,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.749956,
+                43.410134
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 69.8512,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Četvrtasti",
+              "DN": 50,
+              "Ime": "RV4(rr)",
+              "Lokacija": "Lokva Rogoznica(Ruskamen II)",
+              "MjernaZona": "Stanići - Zavode",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "OcjenaStanja": 6,
+              "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciDatum": "2019-04-29 09:55:41",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "25(rr)",
+              "Tlak": 1.8,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3568,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.76912,
+                43.452962
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 211.1806,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Četvrtasti",
+              "DN": 80,
+              "Ime": "RV1(zv)",
+              "Lokacija": "Zvečanje(Poljičke Republike)",
+              "MjernaZona": "Zvečanje",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "OcjenaStanja": 4,
+              "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "5(zv)",
+              "Tlak": 2.5,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3569,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.902205,
+                43.437998
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 195.0435,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Četvrtasti",
+              "DN": 50,
+              "Ime": "RV1(z0)",
+              "Lokacija": "Zadvarje(Krželji)",
+              "MjernaZona": "Zadvarje - Vrbanj",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Općina Zadvarje",
+              "Status": "Rad",
+              "OcjenaStanja": 3,
+              "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "RV1(z0)",
+              "Tlak": 5,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3570,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.938524,
+                43.431207
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 233.4775,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Četvrtasti",
+              "DN": 50,
+              "Ime": "RV1(q0)",
+              "Lokacija": "Žeževica(Škerići)",
+              "MjernaZona": "Privija - Katuni",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Općina Šestanovac",
+              "Status": "Rad",
+              "OcjenaStanja": 6,
+              "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "RV1(q0)",
+              "Tlak": 3,
+              "Klasa": "Ventil"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 3571,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.947098,
+                43.428432
+              ]
+            },
+            "properties": {
+              "Tip": "RV",
+              "Hteren_mnm": 232.1397,
+              "OknoMaterijal": "BE",
+              "OknoOblik": "Četvrtasti",
+              "DN": 50,
+              "Ime": "RV2(q0)",
+              "Lokacija": "Žeževica(Pejkovići)",
+              "MjernaZona": "Žeževica",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Općina Šestanovac",
+              "Status": "Kvar",
+              "OcjenaStanja": 6,
+              "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "RV2(q0)",
+              "Klasa": "Ventil"
+            }
+          }
+    ]
+}

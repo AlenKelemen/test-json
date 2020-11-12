@@ -1,0 +1,499 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 550,
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  16.842665,
+                  43.473521
+                ],
+                [
+                  16.842633,
+                  43.473551
+                ]
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - jug",
+              "Klasa": "PrikljucniVod"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 551,
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  16.844415,
+                  43.472865
+                ],
+                [
+                  16.844419,
+                  43.472838
+                ],
+                [
+                  16.844526,
+                  43.47286
+                ]
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - jug",
+              "Klasa": "PrikljucniVod"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 552,
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  16.84012,
+                  43.474092
+                ],
+                [
+                  16.840165,
+                  43.474019
+                ]
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - jug",
+              "Klasa": "PrikljucniVod"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 553,
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  16.840003,
+                  43.474876
+                ],
+                [
+                  16.839897,
+                  43.474843
+                ]
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - jug",
+              "Klasa": "PrikljucniVod"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 554,
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  16.838764,
+                  43.475825
+                ],
+                [
+                  16.838757,
+                  43.475906
+                ]
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - jug",
+              "Klasa": "PrikljucniVod"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 555,
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  16.836521,
+                  43.481614
+                ],
+                [
+                  16.836567,
+                  43.481693
+                ]
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - centar",
+              "Klasa": "PrikljucniVod"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 556,
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  16.84376,
+                  43.4814
+                ],
+                [
+                  16.843751,
+                  43.48139
+                ]
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - centar",
+              "Klasa": "PrikljucniVod"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 557,
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  16.843562,
+                  43.484536
+                ],
+                [
+                  16.843653,
+                  43.484582
+                ]
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - centar",
+              "Klasa": "PrikljucniVod"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 558,
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  16.841219,
+                  43.483951
+                ],
+                [
+                  16.841292,
+                  43.483897
+                ]
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - centar",
+              "Klasa": "PrikljucniVod"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 559,
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  16.839926,
+                  43.48584
+                ],
+                [
+                  16.839954,
+                  43.48592
+                ]
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - centar",
+              "Klasa": "PrikljucniVod"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 560,
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  16.829253,
+                  43.485659
+                ],
+                [
+                  16.8292,
+                  43.485677
+                ]
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - centar",
+              "Klasa": "PrikljucniVod"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 561,
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  16.834313,
+                  43.486966
+                ],
+                [
+                  16.834232,
+                  43.48691
+                ]
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - centar",
+              "Klasa": "PrikljucniVod"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 562,
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  16.835136,
+                  43.488818
+                ],
+                [
+                  16.835486,
+                  43.488909
+                ]
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - centar",
+              "Klasa": "PrikljucniVod"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 563,
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  16.836202,
+                  43.487889
+                ],
+                [
+                  16.836093,
+                  43.487892
+                ]
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - centar",
+              "Klasa": "PrikljucniVod"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 564,
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  16.836277,
+                  43.488351
+                ],
+                [
+                  16.836564,
+                  43.488484
+                ]
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - centar",
+              "Klasa": "PrikljucniVod"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 565,
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  16.839085,
+                  43.486639
+                ],
+                [
+                  16.839146,
+                  43.486706
+                ]
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - centar",
+              "Klasa": "PrikljucniVod"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 566,
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  16.843044,
+                  43.49441
+                ],
+                [
+                  16.843372,
+                  43.494418
+                ]
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - sjever",
+              "Klasa": "PrikljucniVod"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 567,
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  16.830847,
+                  43.501719
+                ],
+                [
+                  16.830902,
+                  43.501789
+                ]
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - sjever",
+              "Klasa": "PrikljucniVod"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 568,
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  16.826603,
+                  43.502456
+                ],
+                [
+                  16.826731,
+                  43.502207
+                ]
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - sjever",
+              "Klasa": "PrikljucniVod"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 569,
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  16.822949,
+                  43.504625
+                ],
+                [
+                  16.822878,
+                  43.504563
+                ]
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - sjever",
+              "Klasa": "PrikljucniVod"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 576,
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  16.831028,
+                  43.403017
+                ],
+                [
+                  16.831043,
+                  43.403028
+                ]
+              ]
+            },
+            "properties": {
+              "Tip": "Priključni",
+              "DN": 32,
+              "Materijal": "PEHD",
+              "Ime": "PV1(ma)",
+              "Lokacija": "Marušići(Put Dvora)",
+              "MjernaZona": "Marušići",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "GodinaIzgradnje": 2019,
+              "OcjenaStanja": 9,
+              "PodaciIzvor": "Trimble TSC3+R8s",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "PV1(ma)",
+              "Klasa": "PrikljucniVod"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 577,
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  16.805196,
+                  43.405433
+                ],
+                [
+                  16.805201,
+                  43.405447
+                ]
+              ]
+            },
+            "properties": {
+              "Tip": "Priključni",
+              "DN": 32,
+              "Materijal": "PEHD",
+              "Ime": "PV1(m0)",
+              "Lokacija": "Mimice(Kralja Tomislava)",
+              "MjernaZona": "Marušići",
+              "TehnickaCjelina": "Vodovod Omiš",
+              "LokalnaUprava": "Grad Omiš",
+              "Status": "Rad",
+              "GodinaIzgradnje": 2019,
+              "OcjenaStanja": 9,
+              "PodaciIzvor": "Trimble TSC3+R8s",
+              "PodaciTocnost": "GNNS+VPPS",
+              "PodaciIme": "vicko.kovacevic@vodovod.hr",
+              "OptionalId": "PV4(m0)",
+              "Klasa": "PrikljucniVod"
+            }
+          }
+    ]
+}

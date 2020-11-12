@@ -1,0 +1,4562 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.916083,
+                    43.451569
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 252.29342,
+                "MjernaZona": "Šestanovac",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "OptionalId": "20181105T19",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.686477,
+                    43.444121
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 1.531,
+                "Ime": "H30(a0)",
+                "Opis": "Nadzemni hidrant u nogostupu pokraj ulaza na kolodvor",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "GodinaIzgradnje": 2017,
+                "OcjenaStanja": 10,
+                "Napomena": "Hidrant pokraj ulaza na kolodvor",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "H3(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.687602,
+                    43.444113
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 1.4397,
+                "Ime": "H29(a0)",
+                "Opis": "Nadzemni hidrant na početku ulice put Ribnjaka pored Crkve(pokraj potoka Vrilo)",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "GodinaIzgradnje": 2017,
+                "OcjenaStanja": 10,
+                "Napomena": "Hidrant pokraj crkve Sv.Petra Apostola",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "H2(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.687447,
+                    43.444264
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 1.6724,
+                "Ime": "H28(a0)",
+                "Opis": "Nadzemni hidrant na početku ulice put Ribnjaka(pokraj potoka Vrilo)",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "GodinaIzgradnje": 2017,
+                "OcjenaStanja": 10,
+                "Napomena": "Hidrant pokraj zgrade zdenac(kolodvor Omiš)",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "H1(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.774735,
+                    43.520447
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 364.27088451657,
+                "MjernaZona": "Nova Sela - zapad",
+                "PodaciIzvor": "Nova Sela Sekundarni Cjevovodi.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "h4",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.767751,
+                    43.523208
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 356.11023364002,
+                "MjernaZona": "Nova Sela - zapad",
+                "PodaciIzvor": "Nova Sela Sekundarni Cjevovodi.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "h3",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.768475,
+                    43.522113
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 345.98715798806,
+                "MjernaZona": "Nova Sela - zapad",
+                "PodaciIzvor": "Nova Sela Sekundarni Cjevovodi.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "h2",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.767488,
+                    43.52094
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 338.03488332025,
+                "MjernaZona": "Nova Sela - zapad",
+                "PodaciIzvor": "Nova Sela Sekundarni Cjevovodi.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "h1",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.782214,
+                    43.518567
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 387.38210993895,
+                "MjernaZona": "Nova Sela - zapad",
+                "PodaciIzvor": "Nova Sela Sekundarni Cjevovodi.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "h8",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.777934,
+                    43.522791
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 400.42338665186,
+                "MjernaZona": "Nova Sela - zapad",
+                "PodaciIzvor": "Nova Sela Sekundarni Cjevovodi.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "h7",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.776213,
+                    43.521476
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 380.4328798713,
+                "MjernaZona": "Nova Sela - zapad",
+                "PodaciIzvor": "Nova Sela Sekundarni Cjevovodi.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "h6",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.773593,
+                    43.518844
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 345.69323413468,
+                "MjernaZona": "Nova Sela - zapad",
+                "PodaciIzvor": "Nova Sela Sekundarni Cjevovodi.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "h5",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.749964,
+                    43.531074
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 270,
+                "MjernaZona": "Srijane III",
+                "PodaciIzvor": "Nova Sela Sekundarni Cjevovodi+Dio mreže vodovoda Sinjske Krajine.dwg",
+                "PodaciTocnost": "HOK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "NH Cikotici",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.751641,
+                    43.538468
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 370,
+                "PodaciIzvor": "Nova Sela Sekundarni Cjevovodi+Dio mreže vodovoda Sinjske Krajine.dwg",
+                "PodaciTocnost": "HOK",
+                "PodaciIme": "Vicko_Vodovod",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.762872,
+                    43.529158
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 370,
+                "MjernaZona": "Srijane III",
+                "PodaciIzvor": "Nova Sela Sekundarni Cjevovodi+Dio mreže vodovoda Sinjske Krajine.dwg",
+                "PodaciTocnost": "HOK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "NH Stipetic",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.760493,
+                    43.528555
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 353,
+                "MjernaZona": "Srijane III",
+                "PodaciIzvor": "Nova Sela Sekundarni Cjevovodi+Dio mreže vodovoda Sinjske Krajine.dwg",
+                "PodaciTocnost": "HOK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "NH Corici",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.754408,
+                    43.531281
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 345,
+                "MjernaZona": "Srijane III",
+                "PodaciIzvor": "Nova Sela Sekundarni Cjevovodi+Dio mreže vodovoda Sinjske Krajine.dwg",
+                "PodaciTocnost": "HOK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "NH Karamani",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.757343,
+                    43.531012
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 365,
+                "MjernaZona": "Srijane III",
+                "PodaciIzvor": "Nova Sela Sekundarni Cjevovodi+Dio mreže vodovoda Sinjske Krajine.dwg",
+                "PodaciTocnost": "HOK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "NH Cokolici",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.807738,
+                    43.49002
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 259.3567,
+                "Ime": "H1(Dz)",
+                "Opis": "TH",
+                "Lokacija": "Trnbusi",
+                "MjernaZona": "Trnbusi",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni Hidrant pokraj odvojka za Tomiće",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "H1(Dz)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.761568,
+                    43.502274
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 377.9996,
+                "Ime": "H3(Dz)",
+                "Opis": "TH",
+                "Lokacija": "Gornji Dolac",
+                "MjernaZona": "Trnbusi",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "TH(Nadzemni Hidrant pokraj škole u Rudinama)",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "H3(Dz)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.748303,
+                    43.496457
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 446.558,
+                "Ime": "H4(Dz)",
+                "Opis": "TH",
+                "Lokacija": "Gornji Dolac",
+                "MjernaZona": "Trnbusi",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni Hidrant Nart",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "H4(Dz)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.733441,
+                    43.496631
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 553.21,
+                "Ime": "H5(Dz)",
+                "Opis": "Nadzemni Hidrant",
+                "Lokacija": "Gornji Dolac",
+                "MjernaZona": "Trnbusi",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni Hidrant Tadinci",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "H5(Dz)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.730658,
+                    43.496245
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 545.9574,
+                "Ime": "H6(Dz)",
+                "Opis": "Nadzemni Hidrant",
+                "Lokacija": "Gornji Dolac",
+                "MjernaZona": "Trnbusi",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni Hidrant Centar",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "H6(Dz)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.717541,
+                    43.499707
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 566.3069,
+                "Ime": "H7(Dz)",
+                "Opis": "Nadzemni Hidrant",
+                "Lokacija": "Srijane",
+                "MjernaZona": "Trnbusi",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni Hidrant pokraj crkve uznesenja Blažene Djevice Marije",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "H7(Dz)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.776162,
+                    43.525543
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 405.50978,
+                "Ime": "23(bc)",
+                "Lokacija": "Nova Sela",
+                "MjernaZona": "Nova Sela - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "OptionalId": "0310T283",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.77927,
+                    43.523887
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 408.31264,
+                "MjernaZona": "Nova Sela - zapad",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "OptionalId": "0310T281",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.784091,
+                    43.521268
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 409.30057,
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "OptionalId": "0310T1000",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.761866,
+                    43.534629
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 376.74932,
+                "MjernaZona": "Nova Sela - zapad",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "OptionalId": "0309T264",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.761688,
+                    43.536509
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 379.55472,
+                "Opis": "TH",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "OptionalId": "0309T254",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.793463,
+                    43.525538
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 428.45308,
+                "MjernaZona": "Nova Sela - sjever",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "OptionalId": "0309T248",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.79626,
+                    43.524016
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 440.42852,
+                "Ime": "20(bc)",
+                "Opis": "TH",
+                "Lokacija": "Nova Sela",
+                "MjernaZona": "Nova Sela - sjever",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant u zaseoku Abrami-Vrkići",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "OptionalId": "0309T234",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.781372,
+                    43.516339
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 366.97333,
+                "MjernaZona": "Nova Sela - centar",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "OptionalId": "0309T226",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.783973,
+                    43.519706
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 409.90528,
+                "MjernaZona": "Nova Sela - centar",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "OptionalId": "0309T183",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.788019,
+                    43.518978
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 409.05445,
+                "Ime": "19(bc)",
+                "Opis": "Nadzemni hidrant",
+                "Lokacija": "Nova Sela",
+                "MjernaZona": "Nova Sela - centar",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "OptionalId": "0309T150",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.797508,
+                    43.518039
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 434.53581,
+                "Opis": "Nadzemni Hidrant na putu prema Tokićima",
+                "Lokacija": "Nova Sela",
+                "MjernaZona": "Nova Sela - centar",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "OptionalId": "0309T124",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.804393,
+                    43.517057
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 435.11975,
+                "Ime": "18(bc)",
+                "Opis": "Nadzemni Hidrant na putu prema Tokićima",
+                "Lokacija": "Nova Sela",
+                "MjernaZona": "Nova Sela - centar",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "OptionalId": "0309T93",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.802347,
+                    43.513285
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 447.27354,
+                "Ime": "17(bc)",
+                "Opis": "Nadzemni Hidrant u Zaseoku Plejići",
+                "Lokacija": "Nova Sela",
+                "MjernaZona": "Nova Sela - centar",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "OptionalId": "0309T76",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.80342,
+                    43.512748
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 443.86554,
+                "Ime": "16(Bc)",
+                "Opis": "Nadzemni hidrant zaseok Plejići",
+                "Lokacija": "Nova Sela",
+                "MjernaZona": "Nova Sela - centar",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "OptionalId": "0309T63",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.805954,
+                    43.512803
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 445.92337,
+                "Ime": "15(bc)",
+                "Opis": "Nadzemni Hidrant na putu prema Gornjim Smoljanovićima",
+                "Lokacija": "Nova Sela",
+                "MjernaZona": "Smoljanovići II",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "OptionalId": "0309T51",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.807413,
+                    43.512774
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 447.67793,
+                "Ime": "14(bc)",
+                "Opis": "Nadzemni Hidrant u gornjima Smoljanovićima",
+                "Lokacija": "Lokva Rogoznica",
+                "MjernaZona": "Smoljanovići II",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "OptionalId": "0309T34",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.809094,
+                    43.512769
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 445.11112,
+                "Ime": "13(bc)",
+                "Opis": "Nadzemni hidrant u gornjim Smoljanovićima",
+                "Lokacija": "Nova Sela",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "EDC",
+                "OptionalId": "0309T24",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.712993,
+                    43.505817
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 511.7943,
+                "Ime": "H8(Dz)",
+                "Opis": "Nadzemni Hidrant",
+                "Lokacija": "Srijane(Polje)",
+                "MjernaZona": "Donji Dolac",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant  polje Srijane",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "H8(Dz)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.708493,
+                    43.51113
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H12(Dz)",
+                "Opis": "Nadzemni Hidrant",
+                "Lokacija": "Srijane(Polje)",
+                "MjernaZona": "Donji Dolac",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant Donji Dolac",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "H12(Dz)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.701547,
+                    43.517312
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 529.2506,
+                "Ime": "H9(Dz)",
+                "Opis": "Nadzemni Hidrant",
+                "Lokacija": "Donji Dolac",
+                "MjernaZona": "Donji Dolac",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant Donji Dolac",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "H9(Dz)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.698835,
+                    43.519367
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 490.8479,
+                "Ime": "H10(Dz)",
+                "Opis": "Podzemni hidrant",
+                "Lokacija": "Donji Dolac",
+                "MjernaZona": "Donji Dolac",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant kraj škole u Donjem Dolcu",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "H10(Dz)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.811464,
+                    43.486462
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "H11(Dz)",
+                "Opis": "Podzemni Hidrant",
+                "Lokacija": "Trnbusi",
+                "MjernaZona": "Trnbusi",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant na kraju trase(ulaz u Trnbuse)",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "H11(Dz)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.784183,
+                    43.495743
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 298.3447,
+                "Ime": "H2(Dz)",
+                "Opis": "Nadzemni Hidrant",
+                "Lokacija": "Trnbusi",
+                "MjernaZona": "Trnbusi",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant u Trnbusima(Raskrižje za Dolac Gornji i Dugopolje)",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "H2(Dz)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.693473,
+                    43.516227
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H16(Dz)",
+                "Opis": "Nadzemni Hidrant",
+                "Lokacija": "Donji Dolac",
+                "MjernaZona": "Donji Dolac",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant Latkovići",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "H16(Dz)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.683248,
+                    43.518321
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H13(Dz)",
+                "Opis": "Nadzemni Hidrant",
+                "Lokacija": "Donji Dolac",
+                "MjernaZona": "Donji Dolac",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant Simunići 1",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "H13(Dz)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.681099,
+                    43.518511
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H14(Dz)",
+                "Opis": "Nadzemni Hidrant",
+                "Lokacija": "Donji Dolac",
+                "MjernaZona": "Donji Dolac",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant Simunići 2",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "H14(Dz)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.678602,
+                    43.519508
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H15(Dz)",
+                "Opis": "Nadzemni Hidrant",
+                "Lokacija": "Donji Dolac",
+                "MjernaZona": "Donji Dolac",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant Dešišević",
+                "PodaciIzvor": "IZVEDENO_Montažni crteži_Tomići_2015-07-07.dwg",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "H15(Dz)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.694695,
+                    43.442588
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "58(u0)",
+                "Opis": "Nadzemni hidrant ispred vatrogasnog doma u Omišu",
+                "Lokacija": "Omiš(Stari Grad)",
+                "MjernaZona": "Omiš - jug",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "58(u0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.694699,
+                    43.442584
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "57(u0)",
+                "Opis": "Podzemni hdrant ispred vatrogasnog doma u Omišu",
+                "Lokacija": "Omiš(Stari Grad)",
+                "MjernaZona": "Omiš - jug",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "57(u0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.780324,
+                    43.523325
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "22(bc)",
+                "Opis": "Nadzemni Hidrant 500m zapadno od škole u Novim Selima",
+                "Lokacija": "Nova Sela",
+                "MjernaZona": "Nova Sela - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "22(bc)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 57,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.780936,
+                    43.523002
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "21(bc)",
+                "Opis": "Podzemni Hidrant kraj škole u Novim Selima",
+                "Lokacija": "Nova Sela",
+                "MjernaZona": "Nova Sela - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "21(bc)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.814343,
+                    43.495701
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "24(bc)",
+                "Opis": "Nadzemni Hidrant u Lasićima",
+                "Lokacija": "Blato n/C",
+                "MjernaZona": "Blato na Cetini - sjever",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "24(bc)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.80855,
+                    43.512325
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "12(bc)",
+                "Opis": "Nadzemni hidrant u gornjim Smoljanovićima",
+                "Lokacija": "Blato n/C",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "12(bc)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.808083,
+                    43.511896
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "11(bc)",
+                "Opis": "Nadzemni hidrant u gornjim Smoljanovićima",
+                "Lokacija": "Nova sela",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "11(bc)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.820866,
+                    43.503568
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "10(bc)",
+                "Opis": "Nadzemni hidrant nasuprot stare škole  u Smoljanovićima",
+                "Lokacija": "Blato n/C",
+                "MjernaZona": "Blato na Cetini - sjever",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "10(bc)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.824624,
+                    43.428906
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "37(kk)",
+                "Lokacija": "Kučiće",
+                "MjernaZona": "Kučiće - istok",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "37(kk)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 63,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.626383,
+                    43.477222
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "37(t0)",
+                "Opis": "Podzemni hidrant ispred pošte u tugarima",
+                "Lokacija": "Tugare",
+                "MjernaZona": "Tugare zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "37(t0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.635977,
+                    43.473529
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "26(t0)",
+                "Opis": "Podzemni hidrant na početku ogranka za Čažin Dolac",
+                "Lokacija": "Tugare",
+                "MjernaZona": "Tugare zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "26(t0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.679636,
+                    43.453953
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "15(n0)",
+                "Opis": "Podzemni hidrant kraj doma u Naklicama",
+                "Lokacija": "Naklice",
+                "MjernaZona": "Naklice",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "15(n0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 66,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.687639,
+                    43.445879
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "H26(a0)",
+                "Opis": "Podzemni hidrant nasuprot PU Omiš",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "26(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.688343,
+                    43.446209
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "H25(a0)",
+                "Opis": "Podzemni hidrant iza automat kluba",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "25(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.688857,
+                    43.446724
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H21(a0)",
+                "Opis": "Nadzemni hidrant u parku don Frane Bulića(kraj uređaja za oborinsku odvodnju)",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "21(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.686511,
+                    43.444629
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "H17(a0)",
+                "Opis": "Podzemni hidrant ispred kolodvora",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Uništeno",
+                "OcjenaStanja": 1,
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+                "PodaciTocnost": "GNNS+VPPS",
+                "PodaciIme": "vicko.kovacevic@vodovod.hr",
+                "OptionalId": "17(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 70,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.686906,
+                    43.443355
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H12(a0)",
+                "Opis": "Nadzemni hidrant ispred ureda porezne uprave",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "12(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.686768,
+                    43.443125
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H11(a0)",
+                "Opis": "Nadzemni hidrant  na parkingu ispred frizerskog salona",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "11(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 72,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.686173,
+                    43.443165
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H10(a0)",
+                "Opis": "Nadzemni hidrant između dvije zgrade na Ribnjaku..",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "10(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 73,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.685002,
+                    43.444883
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H2(a0)",
+                "Opis": "Nadzemni hidrant iza Tommya",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "2(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 74,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6853,
+                    43.445025
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H1(a0)",
+                "Opis": "Nadzemni hidrant ispred zgrade na početku ulice put vrila",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "1(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 75,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.844303,
+                    43.466855
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 277.2088,
+                "Ime": "H1(bc)",
+                "Opis": "Podzemni hidrant na servisnom putu uz auto cestu.",
+                "Lokacija": "Blato n/C",
+                "MjernaZona": "Auto - cesta",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "OcjenaStanja": 6,
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble TSC3+R8s",
+                "PodaciTocnost": "GNNS+VPPS",
+                "PodaciIme": "vicko.kovacevic@vodovod.hr",
+                "OptionalId": "1(bc)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 76,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.841292,
+                    43.475011
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H2(bc)",
+                "Opis": "Nadzemni hidrant u zaseoku Franići",
+                "Lokacija": "Blato n/C",
+                "MjernaZona": "Blato na Cetini - jug",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "H2(bc)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.846578,
+                    43.474628
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "3(bc)",
+                "Opis": "Nadzemni hidrant kraj groblja u Blatu",
+                "Lokacija": "Blato n/C",
+                "MjernaZona": "Blato na Cetini - jug",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "3(bc)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.844265,
+                    43.48103
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "4(bc)",
+                "Opis": "Nadzemni hidrant u centru Blata(ispod pošte)",
+                "Lokacija": "Blato n/C",
+                "MjernaZona": "Blato na Cetini - centar",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "4(bc)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 79,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.843471,
+                    43.484055
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "5(bc)",
+                "Opis": "Nadzemni hidrant u predjelu čelopek",
+                "Lokacija": "Blato n/C",
+                "MjernaZona": "Blato na Cetini - centar",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "5(bc)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.842639,
+                    43.494267
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "6(bc)",
+                "Opis": "Nadzemni hidrant u zaseoku Zečići",
+                "Lokacija": "Blato n/C",
+                "MjernaZona": "Blato na Cetini - sjever",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "6(bc)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.822931,
+                    43.48977
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "7(bc)",
+                "Opis": "nadzemni hidrant kraj ogranka za zaseok Borovci",
+                "Lokacija": "Blato n/C",
+                "MjernaZona": "Blato na Cetini - sjever",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "7(bc)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.829973,
+                    43.499527
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "8(bc)",
+                "Opis": "Podzemni hidrant",
+                "Lokacija": "Blato n/C",
+                "MjernaZona": "Blato na Cetini - sjever",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "8(bc)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.825624,
+                    43.50219
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "9(bc)",
+                "Opis": "Nadzemni hidrant",
+                "Lokacija": "Blato n/C",
+                "MjernaZona": "Blato na Cetini - sjever",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "9(bc)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 84,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.683545,
+                    43.442479
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H3(a0)",
+                "Opis": "Nadzemni hidrant ispred skladišta TC studenac",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "3(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.684471,
+                    43.442672
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H4(a0)",
+                "Opis": "Nadzemni hidrant ",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "4(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 86,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.683917,
+                    43.443301
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H5(a0)",
+                "Opis": "Nadzemni hidrant pokraj benzinske crpke",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "5(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 87,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.684779,
+                    43.443755
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H6(a0)",
+                "Opis": "Nadzemni hidrant na početku ceste za CS Priko",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "6(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.685189,
+                    43.443009
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H7(a0)",
+                "Opis": "Nadzemni hidrant ispred Caffe Bara PlayO",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "7(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 89,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.685745,
+                    43.442546
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H8(a0)",
+                "Opis": "Nadzemni hidrant kraj trafostanice (200 m sjeverno od CS  Priko)",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "8(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.68678,
+                    43.442826
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H9(a0)",
+                "Opis": "Nadzemni hidrant kraj restorana uz Cetinu.",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "9(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 91,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.686811,
+                    43.44371
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H13(a0)",
+                "Opis": "Nadzemni hidrant pokraj crkve sv.Petra",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "13(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 92,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.686153,
+                    43.444139
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "H14(a0)",
+                "Opis": "Podzemni hidrant ispred zgrade splitske banke na priku",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "14(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 93,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.686,
+                    43.444284
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "H15(a0)",
+                "Opis": "Podzemni hidrant ispred zgrade splitske banke na priku",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "15(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 94,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.685809,
+                    43.444579
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H16(a0)",
+                "Opis": "Nadzemni hidrant ispred prodavaonice auto djelova.",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "16(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 95,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.686702,
+                    43.444799
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "H18(a0)",
+                "Opis": "Podzemni Hidrant ispred caffe bara Top",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "18(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 96,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.688096,
+                    43.445754
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "H19(a0)",
+                "Opis": "Podzemni Hidrant ispred hattrick kladionice",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "19(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 97,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.688982,
+                    43.447024
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "H22(a0)",
+                "Opis": "Podzemni hidratnt u cesti pokraj crkvice sv.Petra",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "22(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 98,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69154,
+                    43.446135
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H23(a0)",
+                "Opis": "Nadzemni hidrant ispred Terzić d.o.o ",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "23(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.691049,
+                    43.445953
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H24(a0)",
+                "Opis": "Nadzemni hidrant kraj caffe bara Ljevak",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "24(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 100,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.688803,
+                    43.446479
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "H20(a0)",
+                "Opis": "Podzemni hidrant kraj caffe bara bmb",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "20(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 101,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.687533,
+                    43.446218
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "H27(a0)",
+                "Opis": "Podzemni hidrant kraj pedijatrijske ordinacije",
+                "Lokacija": "Omiš(Priko)",
+                "MjernaZona": "Omiš - zapad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "27(a0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 102,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.623849,
+                    43.45406
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "H1(c0)",
+                "Opis": "Podzemni Hidrant kraj groblja na Sumpetru.",
+                "Lokacija": "Sumpetar",
+                "MjernaZona": "Jesenice - istok",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Općina Dugi Rat",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "1(c0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 103,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.640453,
+                    43.444829
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "3(d0)",
+                "Opis": "Nadzemni Hidrant na trgu iza nove zgrade općine Dugi Rat",
+                "Lokacija": "Dugi Rat",
+                "MjernaZona": "Dugi Rat - centar",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Općina Dugi Rat",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "3(d0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 104,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.641025,
+                    43.44353
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "2(d0)",
+                "Opis": "Nadzemni hidrant iza tvornice Dalmacija.",
+                "Lokacija": "Dugi Rat",
+                "MjernaZona": "Dugi Rat - istok",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Općina Dugi Rat",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "2(d0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 105,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.644345,
+                    43.441687
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "1(d0)",
+                "Opis": "Nadzemni hidrant kraj ulaza u tvornicu Messer",
+                "Lokacija": "Dugi Rat",
+                "LokalnaUprava": "Općina Dugi Rat",
+                "Status": "Rad",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "1(d0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 106,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.908312,
+                    43.452359
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "H3(v0)",
+                "Opis": "Podzemni Hidrant nasuprot dvorišta tvornice Dr. Luigi",
+                "Lokacija": "Šestanovac",
+                "MjernaZona": "Katuni",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Općina Šestanovac",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "3(v0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 107,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.910343,
+                    43.454225
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "H2(v0)",
+                "Opis": "Podzemni hidrant iza doma zdravlja u Šestanovcu.",
+                "Lokacija": "Šestanovac",
+                "MjernaZona": "Šestanovac",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Općina Šestanovac",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "2(v0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 108,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.970951,
+                    43.419463
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "H2(q0)",
+                "Opis": "Nadzemni hidrant na ulazu za Čikeše",
+                "Lokacija": "Žeževica",
+                "MjernaZona": "Žeževica - Čikeši",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Općina Šestanovac",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "2(q0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 109,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.953828,
+                    43.432809
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "H1(q0)",
+                "Opis": "Podzemni hidrant nasuprot ogranka za zaseok Latkovići.",
+                "Lokacija": "Žeževica",
+                "MjernaZona": "Žeževica",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Općina Šestanovac",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "1(q0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 110,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.907088,
+                    43.445948
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "H1(v0)",
+                "Opis": "Podzemni hidrant nasuprot skretanja za zaseok Babići. ",
+                "Lokacija": "Šestanovac",
+                "MjernaZona": "Šestanovac",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Općina Šestanovac",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "1(v0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 111,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.895439,
+                    43.431892
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "Ime": "2(z0)",
+                "Opis": "Nadzemni Hidrant ispred nove zgrade općine Zadvarje.",
+                "Lokacija": "Zadvarje",
+                "MjernaZona": "Zadvarje - centar",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Općina Zadvarje",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "2(z0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 112,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.892081,
+                    43.43263
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "1(z0)",
+                "Opis": "Podzemni hidrant na početku puta za Gubavicu (nasuprot vatrogasnog doma).",
+                "Lokacija": "Zadvarje",
+                "MjernaZona": "Zadvarje - centar",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Općina Zadvarje",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GEO SKICA",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "1(z0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 113,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.872923,
+                    43.423679
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "1(s0)",
+                "Lokacija": "Slime",
+                "MjernaZona": "Slime",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "1(s0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 114,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.691916,
+                    43.443298
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 2.2512,
+                "Ime": "20(x0)",
+                "Lokacija": "Omiš(Punta)",
+                "MjernaZona": "Omiš - Punta",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "20(x0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 115,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.691594,
+                    43.444548
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "19(x0)",
+                "Opis": "Podzemni hidrant pored Konzuma ",
+                "Lokacija": "Omiš(Punta)",
+                "MjernaZona": "Omiš - Punta",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad (Omiš)",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Vicko GPS",
+                "PodaciTocnost": "DOF",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "19(x0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 116,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.771065,
+                    43.451623
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 174.7542,
+                "Ime": "H5(Zv)",
+                "Lokacija": "Zvečanje(Niz Badanj)",
+                "MjernaZona": "Smolonje",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "OcjenaStanja": 4,
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+                "PodaciTocnost": "GNNS+VPPS",
+                "PodaciIme": "vicko.kovacevic@vodovod.hr",
+                "OptionalId": "7(Zv)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 117,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.771818,
+                    43.446441
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 189.3957,
+                "Ime": "H1(Zv)",
+                "Lokacija": "Zvečanje",
+                "MjernaZona": "Smolonje",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "OcjenaStanja": 4,
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+                "PodaciTocnost": "GNNS+VPPS",
+                "PodaciIme": "vicko.kovacevic@vodovod.hr",
+                "OptionalId": "16(Zv)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 118,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.775256,
+                    43.446956
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 184.1537,
+                "Ime": "H2(Zv)",
+                "Lokacija": "Smolonje",
+                "MjernaZona": "Smolonje",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "OcjenaStanja": 4,
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+                "PodaciTocnost": "GNNS+VPPS",
+                "PodaciIme": "vicko.kovacevic@vodovod.hr",
+                "OptionalId": "12(Zv)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.776466,
+                    43.44744
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 180.8246,
+                "Ime": "H3(Zv)",
+                "Lokacija": "Smolonje(Smolonje)",
+                "MjernaZona": "Smolonje",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "OcjenaStanja": 4,
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+                "PodaciTocnost": "GNNS+VPPS",
+                "PodaciIme": "vicko.kovacevic@vodovod.hr",
+                "OptionalId": "10(Zv)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 120,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.779527,
+                    43.446885
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 188.4487,
+                "Ime": "H4(Zv)",
+                "Lokacija": "Smolonje(Smolonje)",
+                "MjernaZona": "Smolonje",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "OcjenaStanja": 4,
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+                "PodaciTocnost": "GNNS+VPPS",
+                "PodaciIme": "vicko.kovacevic@vodovod.hr",
+                "OptionalId": "18(Zv)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 121,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.741323,
+                    43.455231
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 260.2841,
+                "Ime": "H1(ff)",
+                "Lokacija": "Ostrvica(Ostrvica)",
+                "MjernaZona": "Ostrvica Donja",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "OcjenaStanja": 5,
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+                "PodaciTocnost": "GNNS+VPPS",
+                "PodaciIme": "vicko.kovacevic@vodovod.hr",
+                "OptionalId": "10(ff)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 122,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.694918,
+                    43.460003
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 235.4371,
+                "Ime": "26(g0)",
+                "Lokacija": "Gata(Zagrad)",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant u šahti s ventilom za C10(g0)",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "26(g0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.711478,
+                    43.463791
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 281.2697,
+                "Ime": "H2(g0)",
+                "Lokacija": "Gata(Poljička Cesta)",
+                "MjernaZona": "Gata",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "OcjenaStanja": 4,
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble TSC3+R8s",
+                "PodaciTocnost": "GNNS+VPPS",
+                "PodaciIme": "vicko.kovacevic@vodovod.hr",
+                "OptionalId": "17(g0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 124,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.711929,
+                    43.463867
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 281.6688,
+                "Ime": "H1(g0)",
+                "Lokacija": "Gata(Poljička Cesta)",
+                "MjernaZona": "Gata",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "OcjenaStanja": 5,
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+                "PodaciTocnost": "GNNS+VPPS",
+                "PodaciIme": "vicko.kovacevic@vodovod.hr",
+                "OptionalId": "6(g0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 125,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.805041,
+                    43.432356
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 219.44,
+                "Ime": "24(kk)",
+                "Lokacija": "Kučiće",
+                "MjernaZona": "Kučiće - istok",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "24(kk)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 126,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.783441,
+                    43.428367
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 284.8991,
+                "Ime": "15(kk)",
+                "Lokacija": "Svinišće",
+                "MjernaZona": "Svinišće",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "15(kk)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 127,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.693066,
+                    43.44338
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "31(u0)",
+                "Lokacija": "Omiš(Stari Grad)",
+                "MjernaZona": "Omiš - stari grad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Napomena": "Podzemni hidrant u šahti s Ventilima za C2(u0), C3(x0)-(31(l0))",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "31(u0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 128,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.693005,
+                    43.445333
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "48(u0)",
+                "Lokacija": "Omiš(Stari Grad)",
+                "MjernaZona": "Omiš - stari grad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "48(u0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 129,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.692783,
+                    43.445325
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "45(u0)",
+                "Lokacija": "Omiš(Stari Grad)",
+                "MjernaZona": "Omiš - stari grad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "45(u0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 130,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.692253,
+                    43.444516
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "43(u0)",
+                "Lokacija": "Omiš(Stari Grad)",
+                "MjernaZona": "Omiš - stari grad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "43(u0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 131,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.692302,
+                    43.444063
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "42(u0)",
+                "Lokacija": "Omiš(Stari Grad)",
+                "MjernaZona": "Omiš - stari grad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "42(u0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 132,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.692899,
+                    43.444442
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "40(u0)",
+                "Lokacija": "Omiš(Stari Grad)",
+                "MjernaZona": "Omiš - stari grad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "40(u0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 133,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.693302,
+                    43.443236
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "35(u0)",
+                "Lokacija": "Omiš(Stari Grad)",
+                "MjernaZona": "Omiš - stari grad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "35(u0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 134,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.693058,
+                    43.443385
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "32(u0)",
+                "Lokacija": "Omiš(Stari Grad)",
+                "MjernaZona": "Omiš - stari grad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "32(u0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 135,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.693084,
+                    43.443414
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "29(u0)",
+                "Lokacija": "Omiš(Stari Grad)",
+                "MjernaZona": "Omiš - stari grad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant s ventilom",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "29(u0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 136,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.692247,
+                    43.44484
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "18(u0)",
+                "Lokacija": "Omiš(Stari Grad)",
+                "MjernaZona": "Omiš - stari grad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "18(u0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 137,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69309,
+                    43.444272
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "13(u0)",
+                "Lokacija": "Omiš(Stari Grad)",
+                "MjernaZona": "Omiš - stari grad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "13(u0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 138,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.693653,
+                    43.443797
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "9(u0)",
+                "Lokacija": "Omiš(Stari Grad)",
+                "MjernaZona": "Omiš - stari grad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "9(u0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 139,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69443,
+                    43.443185
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "Ime": "1(u0)",
+                "Lokacija": "Omiš(Stari Grad)",
+                "MjernaZona": "Omiš - stari grad",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "1(u0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 140,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.692277,
+                    43.44302
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 1.2512,
+                "Ime": "13(x0)",
+                "Opis": "Podzemni hidrant u nogostupu pored srednje škole",
+                "Lokacija": "Omiš(Punta)",
+                "MjernaZona": "Omiš - Punta",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "13(x0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 141,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.690505,
+                    43.44292
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 1.2094,
+                "Ime": "6(x0)",
+                "Opis": "Podzemni hidrant ispred osnovne škole(ex punta sole)",
+                "Lokacija": "Omiš(Punta)",
+                "MjernaZona": "Omiš - Punta",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "6(x0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 142,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.691129,
+                    43.44451
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 2.0105,
+                "Ime": "3(x0)",
+                "Opis": "Podzemni hidrant kraj skladišta Konzuma",
+                "Lokacija": "Omiš(Punta)",
+                "MjernaZona": "Omiš - Punta",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "3(x0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 143,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.689333,
+                    43.443123
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 1.0068,
+                "Ime": "1(x0)",
+                "Opis": "Podzemni hidrant pokraj knjižare Mozaik",
+                "Lokacija": "Omiš(Punta)",
+                "MjernaZona": "Omiš - Punta",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "1(x0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 144,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.700131,
+                    43.438974
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 39.9012,
+                "Ime": "17(l0)",
+                "Lokacija": "Omiš(Naselje)",
+                "MjernaZona": "Omiš - istok",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant u šahti s ventilom 2''(17(l0))",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "17(l0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 145,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.700362,
+                    43.439869
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 65.2831,
+                "Ime": "11(l0)",
+                "Lokacija": "Omiš(Naselje)",
+                "MjernaZona": "Omiš - istok",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant u šahti s ventilom 2''(11(l0))",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "11(l0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 146,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.698894,
+                    43.439499
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 23.3031,
+                "Ime": "34(l0)",
+                "Lokacija": "Omiš(Naselje)",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "34(l0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 147,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.700712,
+                    43.439951
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 72.9763,
+                "Ime": "10(l0)",
+                "Lokacija": "Omiš(Naselje)",
+                "MjernaZona": "Omiš - istok",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "10(l0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 148,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.787941,
+                    43.407737
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 36.0247,
+                "Ime": "H4(rr)",
+                "Lokacija": "Lokva Rogoznica",
+                "MjernaZona": "Lokva Rogoznica(Ivašnjak VII)",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "27(rr)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 149,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.814153,
+                    43.404188
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 26.4454,
+                "Ime": "19(m0)",
+                "Lokacija": "Mimice",
+                "MjernaZona": "Medići - Mimice",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "19(m0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 150,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.802261,
+                    43.404545
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 25.061,
+                "Ime": "21(m0)",
+                "Lokacija": "Mimice",
+                "MjernaZona": "Medići - Mimice",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "21(m0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 151,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.830689,
+                    43.402571
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 85.8694,
+                "Ime": "13(ma)",
+                "Lokacija": "Marušići",
+                "MjernaZona": "Marušići",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "13(ma)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 152,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.836941,
+                    43.401919
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 64.9591,
+                "Ime": "7(ma)",
+                "Lokacija": "Marušići",
+                "MjernaZona": "Marušići",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "7(ma)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 153,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.713334,
+                    43.426308
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 94.1013,
+                "Ime": "24(f0)",
+                "Lokacija": "Nemira",
+                "MjernaZona": "Omiš - istok",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "24(f0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 154,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.715457,
+                    43.422999
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 104.8318,
+                "Ime": "27(f0)",
+                "Lokacija": "Nemira",
+                "MjernaZona": "Omiš - istok",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "27(f0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 155,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.71094,
+                    43.423671
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 29.894,
+                "Ime": "19(f0)",
+                "Lokacija": "Nemira",
+                "MjernaZona": "Omiš - istok",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "19(f0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 156,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.710708,
+                    43.420885
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 14.2646,
+                "Ime": "20(f0)",
+                "Lokacija": "Nemira",
+                "MjernaZona": "Omiš - istok",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "20(f0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 157,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.714402,
+                    43.420008
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 44.0349,
+                "Ime": "14(f0)",
+                "Lokacija": "Nemira",
+                "MjernaZona": "Omiš - istok",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "14(f0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 158,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.713719,
+                    43.421723
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 55.0938,
+                "Ime": "15(f0)",
+                "Lokacija": "Nemira",
+                "MjernaZona": "Omiš - istok",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "15(f0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 159,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.728609,
+                    43.414207
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 43.9694,
+                "Ime": "H2(h0)",
+                "Lokacija": "Stanići-Tice",
+                "MjernaZona": "Stanići - Tice",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "EDC",
+                "OptionalId": "20(h0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 160,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.720125,
+                    43.416677
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 35.0231,
+                "Ime": "H1(h0)",
+                "Lokacija": "Stanići-Tice",
+                "MjernaZona": "Omiš - istok",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Nadzemni hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "EDC",
+                "OptionalId": "38(h0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 161,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.742981,
+                    43.410735
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 21.4299,
+                "Ime": "H1(hh)",
+                "Lokacija": "Čelina-Zavode",
+                "MjernaZona": "Stanići - Zavode",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Podzemni hidrant na C13(hh)",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "18(hh)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 162,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.753254,
+                    43.40858
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 47.2731,
+                "Ime": "H3(rr)",
+                "Lokacija": "Lokva Rogoznica(Magistrala Obriž)",
+                "MjernaZona": "Stanići - Zavode",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "OcjenaStanja": 4,
+                "Napomena": "Podzemni Hidrant",
+                "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+                "PodaciTocnost": "GNNS+VPPS",
+                "PodaciIme": "vicko.kovacevic@vodovod.hr",
+                "OptionalId": "23(rr)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 163,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.773667,
+                    43.408222
+                ]
+            },
+            "properties": {
+                "Tip": "NH",
+                "H_mnm": 59.7985,
+                "Ime": "H2(rr)",
+                "Lokacija": "Lokva Rogoznica(Vojskovo I)",
+                "MjernaZona": "Ruskamen",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "OcjenaStanja": 7,
+                "Napomena": "Nadzemni Hidrant",
+                "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "vicko.kovacevic@vodovod.hr",
+                "OptionalId": "2(rr)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 164,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.785984,
+                    43.407359
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 22.3075,
+                "Ime": "H1(rr)",
+                "Opis": "Podzemni hidrant Ivašnjak",
+                "Lokacija": "Lokva Rogoznica(Ivašnjak III)",
+                "MjernaZona": "Ivašnjak",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "OcjenaStanja": 4,
+                "Napomena": "Podzemni Hidrant",
+                "PodaciIzvor": "Trimble GeoXH",
+                "PodaciTocnost": "GEO",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "7(rr)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 165,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.863933,
+                    43.400453
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 70.2622,
+                "Ime": "H1(j0)",
+                "Opis": "Podzemni Hidrant kraj Trafostanice",
+                "Lokacija": "Pisak",
+                "MjernaZona": "Pisak",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "Napomena": "Šahta u asfaltu pored trafo stanice- Podzemni Hidrant na C5(j0)",
+                "PodaciIzvor": "Trimble GeoXh",
+                "PodaciTocnost": "GNSS+RTK",
+                "PodaciIme": "Vicko_Vodovod",
+                "OptionalId": "8(j0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 166,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.77672,
+                    43.409079
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 68.6893,
+                "Ime": "H5(rr)",
+                "Lokacija": "Lokva Rogoznica(Ogranak Lokva)",
+                "MjernaZona": "Ruskamen",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "OcjenaStanja": 3,
+                "Napomena": "Podzemni Hidrant",
+                "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+                "PodaciTocnost": "GNNS+VPPS",
+                "PodaciIme": "vicko.kovacevic@vodovod.hr",
+                "OptionalId": "29(rr)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 167,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.771557,
+                    43.409921
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 67.1345,
+                "Ime": "H6(rr)",
+                "Lokacija": "Lokva Rogoznica(Ogranak Lokva)",
+                "MjernaZona": "Ruskamen",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "OcjenaStanja": 3,
+                "Napomena": "Podzemni Hidrant",
+                "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+                "PodaciTocnost": "GNNS+VPPS",
+                "PodaciIme": "vicko.kovacevic@vodovod.hr",
+                "OptionalId": "30(rr)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 168,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.907267,
+                    43.443507
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 222.4047,
+                "Ime": "H2(z0)",
+                "Opis": "Podzemni hidrant na servisnom putu autoceste",
+                "Lokacija": "Zadvarje",
+                "TlacnaZona": "Privija - Katuni",
+                "MjernaZona": "Žeževica",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Općina Zadvarje",
+                "Status": "Rad",
+                "GodinaIzgradnje": 2008,
+                "OcjenaStanja": 5,
+                "Napomena": "Podzemni Hidrant",
+                "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+                "PodaciTocnost": "GNNS+VPPS",
+                "PodaciIme": "vicko.kovacevic@vodovod.hr",
+                "OptionalId": "H2(z0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 169,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.911105,
+                    43.443593
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 223.4965,
+                "Ime": "H3(z0)",
+                "Opis": "Podzemni hidrant na servisnom putu autoceste",
+                "Lokacija": "Zadvarje",
+                "TlacnaZona": "Privija - Katuni",
+                "MjernaZona": "Žeževica",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Općina Zadvarje",
+                "Status": "Rad",
+                "GodinaIzgradnje": 2008,
+                "OcjenaStanja": 5,
+                "Napomena": "Podzemni Hidrant",
+                "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+                "PodaciTocnost": "GNNS+VPPS",
+                "PodaciIme": "vicko.kovacevic@vodovod.hr",
+                "OptionalId": "H3(z0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 170,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.923147,
+                    43.439584
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 241.9738,
+                "Ime": "H4(z0)",
+                "Opis": "Podzemni hidrant na servisnom putu autoceste",
+                "Lokacija": "Zadvarje",
+                "TlacnaZona": "Privija - Katuni",
+                "MjernaZona": "Žeževica",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Općina Zadvarje",
+                "Status": "Rad",
+                "GodinaIzgradnje": 2008,
+                "OcjenaStanja": 5,
+                "Napomena": "Podzemni Hidrant",
+                "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+                "PodaciTocnost": "GNNS+VPPS",
+                "PodaciIme": "vicko.kovacevic@vodovod.hr",
+                "OptionalId": "H4(z0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 171,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.902435,
+                    43.444335
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 223.4248,
+                "Ime": "H4(v0)",
+                "Opis": "Podzemni hidrant na servisnom putu autoceste",
+                "Lokacija": "Šestanovac",
+                "TlacnaZona": "Blato na Cetini",
+                "MjernaZona": "Auto - cesta",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Općina Šestanovac",
+                "Status": "Rad",
+                "GodinaIzgradnje": 2008,
+                "OcjenaStanja": 6,
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble R8s + Trimble TSC3",
+                "PodaciTocnost": "GNNS+VPPS",
+                "PodaciDatum": "2019-08-26 09:14:32",
+                "PodaciIme": "vicko.kovacevic@vodovod.hr",
+                "OptionalId": "H4(v0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 172,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.851923,
+                    43.463632
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 250.8719,
+                "Ime": "H1(y0)",
+                "Opis": "Podzemni hidrant na servisnom putu autoceste",
+                "Lokacija": "Kreševo",
+                "TlacnaZona": "Blato na Cetini",
+                "MjernaZona": "Auto - cesta",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Općina Šestanovac",
+                "Status": "Rad",
+                "GodinaIzgradnje": 2008,
+                "OcjenaStanja": 6,
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble R8s + Trimble TSC3",
+                "PodaciTocnost": "GNNS+VPPS",
+                "PodaciDatum": "2019-08-26 09:14:32",
+                "PodaciIme": "vicko.kovacevic@vodovod.hr",
+                "OptionalId": "H1(y0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 173,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86976,
+                    43.456899
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 232.3996,
+                "Ime": "H1(p0)",
+                "Opis": "Podzemni hidrant na servisnom putu autoceste",
+                "Lokacija": "Podgrađe",
+                "TlacnaZona": "Blato na Cetini",
+                "MjernaZona": "Auto - cesta",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "GodinaIzgradnje": 2008,
+                "OcjenaStanja": 6,
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble R8s + Trimble TSC3",
+                "PodaciTocnost": "GNNS+VPPS",
+                "PodaciDatum": "2019-08-26 09:14:32",
+                "PodaciIme": "vicko.kovacevic@vodovod.hr",
+                "OptionalId": "H1(p0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 174,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.872586,
+                    43.455672
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 233.8215,
+                "Ime": "H2(p0)",
+                "Opis": "Podzemni hidrant na servisnom putu autoceste",
+                "Lokacija": "Podgrađe",
+                "TlacnaZona": "Blato na Cetini",
+                "MjernaZona": "Auto - cesta",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "GodinaIzgradnje": 2008,
+                "OcjenaStanja": 6,
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble R8s + Trimble TSC3",
+                "PodaciTocnost": "GNNS+VPPS",
+                "PodaciDatum": "2019-08-26 09:14:32",
+                "PodaciIme": "vicko.kovacevic@vodovod.hr",
+                "OptionalId": "H2(p0)",
+                "Klasa": "Hidrant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 175,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.884646,
+                    43.453555
+                ]
+            },
+            "properties": {
+                "Tip": "PH",
+                "H_mnm": 232.5503,
+                "Ime": "H1(k0)",
+                "Opis": "Podzemni hidrant na servisnom putu autoceste",
+                "Lokacija": "Katuni",
+                "TlacnaZona": "Blato na Cetini",
+                "MjernaZona": "Auto - cesta",
+                "TehnickaCjelina": "Vodovod Omiš",
+                "LokalnaUprava": "Grad Omiš",
+                "Status": "Rad",
+                "GodinaIzgradnje": 2008,
+                "OcjenaStanja": 6,
+                "Napomena": "Podzemni hidrant",
+                "PodaciIzvor": "Trimble R8s + Trimble TSC3",
+                "PodaciTocnost": "GNNS+VPPS",
+                "PodaciDatum": "2019-08-26 09:14:32",
+                "PodaciIme": "vicko.kovacevic@vodovod.hr",
+                "OptionalId": "H1(k0)",
+                "Klasa": "Hidrant"
+            }
+        }
+    ]
+}

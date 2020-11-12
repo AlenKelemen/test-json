@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 242,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.887682,
+                    43.431395
+                ]
+            },
+            "properties": {
+                "Tip": "Zahvat sirove vode",
+                "Ime": "Kraljevac",
+                "MjernaZona": "Zadvarje - centar",
+                "PodaciIzvor": "Shematski prikaz",
+                "PodaciTocnost": "FIKTIVNO",
+                "OptionalId": "Kraljevac",
+                "Klasa": "Izvor"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 243,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.806969,
+                    43.445764
+                ]
+            },
+            "properties": {
+                "Tip": "Zahvat sirove vode",
+                "Ime": "Gojsalić; Jurjević",
+                "PodaciIzvor": "Shematski prikaz",
+                "PodaciTocnost": "FIKTIVNO",
+                "OptionalId": "GojsalicJurjevic",
+                "Klasa": "Izvor"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 244,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.704297,
+                    43.460831
+                ]
+            },
+            "properties": {
+                "Tip": "Zahvat sirove vode",
+                "Qnom_l_s": 1050,
+                "Ime": "HE Zakučac",
+                "Napomena": "Zasunska komora",
+                "PodaciIzvor": "dwg",
+                "PodaciTocnost": "FIKTIVNO",
+                "OptionalId": "HEZakucac",
+                "Klasa": "Izvor"
+            }
+        }
+    ]
+}

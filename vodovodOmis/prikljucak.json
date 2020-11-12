@@ -1,0 +1,305 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 530,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.842633,
+                43.473551
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - jug",
+              "Klasa": "Prikljucak"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 531,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.844526,
+                43.47286
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - jug",
+              "Klasa": "Prikljucak"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 532,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.840165,
+                43.474019
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - jug",
+              "Klasa": "Prikljucak"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 533,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.839897,
+                43.474843
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - jug",
+              "Klasa": "Prikljucak"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 534,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.838757,
+                43.475906
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - jug",
+              "Klasa": "Prikljucak"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 535,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.836567,
+                43.481693
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - centar",
+              "Klasa": "Prikljucak"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 536,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.84376,
+                43.4814
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - centar",
+              "Klasa": "Prikljucak"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 537,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.843562,
+                43.484536
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - centar",
+              "Klasa": "Prikljucak"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 538,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.841219,
+                43.483951
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - centar",
+              "Klasa": "Prikljucak"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 539,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.839926,
+                43.48584
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - centar",
+              "Klasa": "Prikljucak"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 540,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.8292,
+                43.485677
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - centar",
+              "Klasa": "Prikljucak"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 541,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.834232,
+                43.48691
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - centar",
+              "Klasa": "Prikljucak"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 542,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.835486,
+                43.488909
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - centar",
+              "Klasa": "Prikljucak"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 543,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.836202,
+                43.487889
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - centar",
+              "Klasa": "Prikljucak"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 544,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.836564,
+                43.488484
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - centar",
+              "Klasa": "Prikljucak"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 545,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.839146,
+                43.486706
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - centar",
+              "Klasa": "Prikljucak"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 546,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.843372,
+                43.494418
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - sjever",
+              "Klasa": "Prikljucak"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 547,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.830847,
+                43.501719
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - sjever",
+              "Klasa": "Prikljucak"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 548,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.826603,
+                43.502456
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - sjever",
+              "Klasa": "Prikljucak"
+            }
+          },
+          {
+            "type": "Feature",
+            "id": 549,
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.822878,
+                43.504563
+              ]
+            },
+            "properties": {
+              "MjernaZona": "Blato na Cetini - sjever",
+              "Klasa": "Prikljucak"
+            }
+          }
+    ]
+}
